@@ -5,6 +5,8 @@ markdown: rdiscount
 
 rdiscount: 
   extensions: 
+    #- footnotes
+    - autolink 
     - smart
 
 # Website title
