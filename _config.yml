@@ -34,18 +34,16 @@ exclude: ['README.md']
 
 prose:
   siteurl: 'http://coboje.github.io/'
-  rooturl: .
   media: 'assets/media'
   metadata:
-    .:
-      - name: 'layout'
-        field:
-          element: 'multiselect'
-          label: 'Select Layout'
-          placeholder: 'Choose Layout'
-          options:
-            - name: 'No Sidebar'
-              value: default
-            - name: 'With Sidebar'
-              value: sidebar
-  
+    - name: 'layout'
+      field:
+        element: 'multiselect'
+        label: 'Select Layout'
+        placeholder: 'Choose Layout'
+        options:
+          - name: 'No Sidebar'
+            value: default
+          - name: 'With Sidebar'
+            value: sidebar
+
