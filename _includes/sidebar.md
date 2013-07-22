@@ -7,7 +7,7 @@ P.O. Box 208301
 New Haven, CT 06520-8301  
 USA
 
-email corinna.jentzsch@yale.edu  
+email <corinna.jentzsch@yale.edu>  
 web www.corinnajentzsch.com  
-twitter @coboje  
+twitter [@coboje](https://twitter.com/coboje)  
 
