@@ -1,0 +1,24 @@
+  <!-- Top Bar -->
+
+  <nav class="top-bar">
+    <ul>
+      <!-- Title Area -->
+      <li class="name">
+        <h1><a href="{{ site.baseurl }}">{{ site.title }}</a></h1>
+      </li>
+      <li class="toggle-topbar"><a href="#"></a></li>
+    </ul>
+
+    <section>
+      <!-- Right Nav Section -->
+      <ul class="right">
+      {% for item in site.navigation %}
+        <li class="{% if forloop.first %}first{% endif %} {{ active }} {% if forloop.last %}last{% endif %} {% if item.url == page.url %}active{% endif %}">
+          <a href="{{ item.url }}">{{ item.text }}</a>
+        </li>
+      {% endfor %}
+      </ul>
+    </section>
+  </nav>
+
+  <!-- End Top Bar -->

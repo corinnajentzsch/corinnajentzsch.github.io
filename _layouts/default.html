@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+
+  {% include head.html %}
+
+</head>
+<body>
+  
+  {% include top-bar.html %}
+
+  <div class="row">
+    <div class="twelve columns">
+
+{% capture banner_content %}
+{% include banner.md %}
+{% endcapture %}
+{{ banner_content | markdownify }}
+
+      {{ content }}
+
+    </div>
+  </div>
+
+  <hr />
+
+  <footer class="row">
+    <div class="twelve columns">
+
+{% capture footer_content %}
+{% include footer.md %}
+{% endcapture %}
+{{ footer_content | markdownify }}
+
+    </div>
+  </footer>
+
+  {% include scripts.html %}
+
+</body>
+</html>

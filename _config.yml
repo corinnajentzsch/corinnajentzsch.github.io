@@ -1,0 +1,44 @@
+safe: true
+permalink: pretty
+baseurl: /
+markdown: rdiscount
+
+rdiscount: 
+  extensions: [ footnotes, autolink, smart ]
+
+# Website title
+title: Site Title
+
+# Default meta description and keywords
+description: Meta description goes here (will be used globally, override it per page)
+keywords: 
+  - 'keyword 1'
+  - 'keyword 2'
+  - 'keyword 3'
+  - 'who really cares about keywords' 
+
+navigation:
+- text: Research
+  url: /research/
+- text: CV
+  url: /cv/
+
+# Files to exclude from build
+exclude: ['README.md']
+
+prose:
+  rooturl: ''
+  siteurl: 'http://coboje.github.io/'
+  media: 'media'
+  metadata:
+    - name: 'layout'
+      field:
+        element: 'multiselect'
+        label: 'Select Layout'
+        placeholder: 'Choose Layout'
+        options:
+          - name: 'No Sidebar'
+            value: default
+          - name: 'With Sidebar'
+            value: sidebar
+
