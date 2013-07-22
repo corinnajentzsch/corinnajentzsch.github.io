@@ -24,9 +24,8 @@ navigation:
 exclude: ['README.md']
 
 prose:
-  rooturl: ''
   siteurl: 'http://coboje.github.io/'
-  media: 'media'
+  media: 'assets/media'
   metadata:
     - name: 'layout'
       field:
