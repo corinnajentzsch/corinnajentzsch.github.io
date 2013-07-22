@@ -3,20 +3,29 @@ permalink: pretty
 baseurl: /
 markdown: kramdown
 
+kramdown: 
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  auto_ids: true
+
 # Website title
-title: Site Title
+title: Corinna Jentzsch
 
 # Default meta description and keywords
-description: Meta description goes here (will be used globally, override it per page)
+description: Corinna Jentzsch's website
 keywords: 
-  - 'keyword 1'
-  - 'keyword 2'
-  - 'keyword 3'
-  - 'who really cares about keywords' 
+  - 'African Politics'
+  - 'political science'
+  - 'Mozambique'
+  - 'civil war'
+  - 'militias'
+  - 'contemporary political theory'
+  - 'contemporary political theory'  
 
 navigation:
 - text: Research
   url: /research/
+- text: Teaching
+  url: /teaching/
 - text: CV
   url: /cv/
 
@@ -25,16 +34,18 @@ exclude: ['README.md']
 
 prose:
   siteurl: 'http://coboje.github.io/'
+  rooturl: .
   media: 'assets/media'
   metadata:
-    - name: 'layout'
-      field:
-        element: 'multiselect'
-        label: 'Select Layout'
-        placeholder: 'Choose Layout'
-        options:
-          - name: 'No Sidebar'
-            value: default
-          - name: 'With Sidebar'
-            value: sidebar
-
+    .:
+      - name: 'layout'
+        field:
+          element: 'multiselect'
+          label: 'Select Layout'
+          placeholder: 'Choose Layout'
+          options:
+            - name: 'No Sidebar'
+              value: default
+            - name: 'With Sidebar'
+              value: sidebar
+  

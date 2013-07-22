@@ -12,7 +12,7 @@ a { color: #0e488a; }
 
 @media (min-width: 940px) {
   .top-bar ul li.active>a {
-    border-bottom: 5px solid #fff;
+    border-bottom: 5px solid #0e488a;
   }
 }
 
