@@ -12,3 +12,10 @@ Quinoa viral banjo, kitsch meh beard authentic. Deserunt et placeat scenester.
 
 [Wonderful](#)
 
+Email
+:    this@that.foo
+
+Snail Mail
+:    23412 Bumble Road
+:    Footown, FOO
+
