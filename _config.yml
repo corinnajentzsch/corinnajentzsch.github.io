@@ -1,13 +1,7 @@
 safe: true
 permalink: pretty
 baseurl: /
-markdown: rdiscount
-
-rdiscount: 
-  extensions: 
-    #- footnotes
-    - autolink 
-    - smart
+markdown: kramdown
 
 # Website title
 title: Site Title
