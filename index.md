@@ -4,6 +4,7 @@ title: Home
 published: true
 ---
 
+![Namarroi, Zambezia](/assets/media/IMG_0096.jpg)
 #### Welcome!
 
 I’m a Ph.D. candidate at the Department of Political Science at Yale University. My research interests include collective action and political violence; local political order in civil wars; African politics, culture and development; and contemporary political theory. 
