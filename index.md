@@ -4,7 +4,7 @@ title: Home
 published: true
 ---
 
-![Namarroi, Zambezia](/assets/media/IMG_0096.jpg)
+![Namarroi, Zambezia](/assets/media/namarroi-lake.jpg)
 
 #### Welcome!
 
