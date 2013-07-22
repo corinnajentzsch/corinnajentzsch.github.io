@@ -1,8 +1,6 @@
 ---
 layout: default
 title: Research
-description: Example description meta tags override
-keywords: [ example, keywords, override ]
 ---
 
 # template
