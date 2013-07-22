@@ -4,10 +4,10 @@ baseurl: /
 markdown: kramdown
 
 # Website title
-title: Site Title
+title: Corinna Jentzsch
 
 # Default meta description and keywords
-description: Meta description goes here (will be used globally, override it per page)
+description: Corinna Jentzsch's homepage
 keywords: 
   - 'keyword 1'
   - 'keyword 2'
@@ -17,6 +17,8 @@ keywords:
 navigation:
 - text: Research
   url: /research/
+- text: Teaching
+  url: /teaching/
 - text: CV
   url: /cv/
 
