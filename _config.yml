@@ -3,16 +3,23 @@ permalink: pretty
 baseurl: /
 markdown: kramdown
 
+kramdown: 
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  auto_ids: true
+
 # Website title
 title: Corinna Jentzsch
 
 # Default meta description and keywords
 description: Corinna Jentzsch's homepage
 keywords: 
-  - 'keyword 1'
-  - 'keyword 2'
-  - 'keyword 3'
-  - 'who really cares about keywords' 
+  - 'African Politics'
+  - 'political science'
+  - 'Mozambique'
+  - 'civil war'
+  - 'militias'
+  - 'contemporary political theory'
+  - 'contemporary political theory'  
 
 navigation:
 - text: Research
@@ -27,6 +34,7 @@ exclude: ['README.md']
 
 prose:
   siteurl: 'http://coboje.github.io/'
+  rooturl: .
   media: 'assets/media'
   metadata:
     .:
