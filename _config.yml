@@ -1,10 +1,10 @@
 safe: true
 permalink: pretty
 baseurl: /
-markdown: rdiscount
+#markdown: rdiscount
 
-rdiscount: 
-  extensions: [ footnotes, autolink, smart ]
+#rdiscount: 
+  #extensions: [ footnotes, autolink, smart ]
 
 # Website title
 title: Site Title
