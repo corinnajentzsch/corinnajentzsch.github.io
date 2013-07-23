@@ -4,8 +4,6 @@ title: Curriculum Vitae
 published: true
 ---
 
-![Alt text](http://placehold.it/400x300)
-
 ## CV 
 
 Please contact me for a pdf version of my complete CV.
