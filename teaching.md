@@ -4,7 +4,7 @@ title: Teaching
 published: true
 ---
 
-### Teaching
+## Teaching
 
 [under construction]
 
