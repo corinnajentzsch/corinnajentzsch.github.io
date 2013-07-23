@@ -61,6 +61,27 @@ Assistant at Research Center 700 of the German Research Foundation “Governance
 Intern with the Malawi-German Programme for Democracy and Decentralisation/MGPDD, German Technical Cooperation (GTZ/GIZ), Lilongwe, Malawi  
 > Conducted study on the conflicts between traditional authorities and local elected representatives based on original interviews with traditional authorities, local government representatvies, and local councilors; wrote report that included recommendations for MGPDD’s future work.
 
+### Publications
+2008
+“Governance Without Government—Politische Ordnung im Osten der DR Kongo” [Political Order in Eastern DR Congo]. In Ordnungen im Wandel. Globale und lokale Wirklichkeiten im Spiegel transdisziplinärer Analysen, eds. Friedrich Arndt, Carmen Dege, Christian Ellermann, Maximilian Mayer, David Teller, Lisbeth Zimmermann, Bielefeld: transcript.
+
+### Presentations
+
+2013	
+“‘Sharpen your hoes and picks.’ Peasant Mobilization for Self-Defense during Mozambique’s Post-Independence War (1976-1992).” Paper presented at the Order, Conflict, and Violence Speaker Series, Yale University, April 9, 2013, and Harvard-Yale-MIT Graduate Conference on Political Violence, Harvard University, Cambridge, MA, April 27, 2013.
+
+2013
+“The Power of a Vaccine: Peasant Resistance to Wartime Violence in Post-Independence Mozambique.” Paper presented at the North East Workshop on Southern Africa (NEWSA), Burlington, VT, April 19-21, 2013.
+
+2012
+“People Tired of War: Militias and the Dynamics of War in Mozambique, 1982-92.” Paper presented at the Conference Paramilitaries, Civil Defense Forces and Militias in Civil Wars, Yale University, New Haven, CT, October 19-20, 2012.
+
+2012
+“People Tired of War: Popular Self-Defense and the Dynamics of War in Nampula and Zambézia provinces.” Paper presented at the Workshop Provincial wars? Local dynamics of the armed conflict in Mozambique, 1977-1992, IESE, Maputo, Mozambique, July 23, 2012.
+
+2011
+“Counterinsurgent Militias and the Dynamics of Civil War.” Paper presented at the International Studies Association’s Annual Meeting, Montréal, March 16-19, 2011.
+
 ### Fieldwork experience
 
 Mozambique (12 months), Malawi (3 months), Zambia (2 months)
