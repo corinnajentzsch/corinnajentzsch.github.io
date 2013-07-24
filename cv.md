@@ -12,18 +12,18 @@ Please contact me for a pdf version of my complete CV.
 
 ### Education
 
-2007- | Ph.D. program in Political Science, Yale University (M.A. 2010, M.Phil. 2011, Ph.D. expected 2014)   
-
+2007-  
+Ph.D. program in Political Science, Yale University (M.A. 2010, M.Phil. 2011, Ph.D. expected 2014)      
 > Dissertation: Militias and the Dynamics of Civil Wars  
 > Dissertation Committee: Elisabeth J. Wood, Stathis N. Kalyvas, Mike McGovern, Ato Kwame Onoma 
+> Field examinations: Comparative Politics, International Relations, 	Political Sociology  
 
-Field examinations: Comparative Politics, International Relations, 	Political Sociology  
-
-2006 | Diplom (M.A. equivalent) in Political Science, Free University Berlin, Germany  
-
+2006   
+Diplom (M.A. equivalent) in Political Science, Free University Berlin, Germany    
 > Fields of specialization: International Relations, Political Theory
 
-2004–2005 | Exchange program at Sciences Po, Paris, France
+2004–2005   
+Exchange program at Sciences Po, Paris, France
 
 ### Honors
 
