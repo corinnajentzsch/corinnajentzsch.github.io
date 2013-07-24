@@ -8,6 +8,14 @@ body {
 
 a { color: #0e488a; }
 
+blockquote {
+  padding: 0 1ex 0 1ex;
+}
+
+footer {
+  color: #6f6f6f;
+}
+
 /* navbar styles */
 
 @media (min-width: 940px) {

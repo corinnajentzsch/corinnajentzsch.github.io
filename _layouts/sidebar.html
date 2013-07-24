@@ -13,6 +13,14 @@
   {% include top-bar.html %}
 
   <div class="row">
+    <div class="twelve columns">
+
+        {{ page.banner | markdownify }}
+
+    </div>
+  </div>
+
+  <div class="row">
     <div class="nine columns">
 
       {{ content }}
