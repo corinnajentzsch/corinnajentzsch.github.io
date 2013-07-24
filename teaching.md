@@ -4,6 +4,8 @@ title: Teaching
 published: true
 ---
 
+![Gurué, Zambézia](/assets/media/gurue-street.jpg)
+
 ## Teaching
 
 [under construction]
@@ -38,4 +40,4 @@ Advanced Undergraduate/Graduate Seminar: Qualitative Research Methods
 
 **“Introduction to International Relations” taught by Professor Thomas Risse, Fall 2005**
 
-> taught one section for lecture course 
+> taught one section for lecture course
