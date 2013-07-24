@@ -68,6 +68,7 @@ Intern with the Malawi-German Programme for Democracy and Decentralisation/MGPDD
 > Conducted study on the conflicts between traditional authorities and local elected representatives based on original interviews with traditional authorities, local government representatvies, and local councilors; wrote report that included recommendations for MGPDD’s future work.
 
 ### Publications
+
 2008
 “Governance Without Government—Politische Ordnung im Osten der DR Kongo” [Political Order in Eastern DR Congo]. In Ordnungen im Wandel. Globale und lokale Wirklichkeiten im Spiegel transdisziplinärer Analysen, eds. Friedrich Arndt, Carmen Dege, Christian Ellermann, Maximilian Mayer, David Teller, Lisbeth Zimmermann, Bielefeld: transcript.
 
