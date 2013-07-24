@@ -8,13 +8,13 @@ kramdown:
   auto_ids: true
 
 # Website title
-title: Corinna Jentzsch
+title: "Corinna Jentzsch"
 
 # Default meta description and keywords
 description: "Corinna Jentzsch's website"
 keywords: 
-  - "African politics"
   - "political science"
+  - "African politics"
   - "Mozambique"
   - "civil war"
   - "militias"
@@ -34,6 +34,8 @@ exclude: ["README.md"]
 prose:
   siteurl: "http://www.corinnajentzsch.com"
   media: "assets/media"
+
+# this is still buggy: github.com/prose/prose/issues/504
 # metadata:
 #   - name: "layout"
 #     field:
