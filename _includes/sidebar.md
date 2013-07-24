@@ -1,3 +1,7 @@
+---
+published: false
+---
+
 #### Contact
 
 Corinna Jentzsch  
@@ -10,4 +14,11 @@ USA
 email <corinna.jentzsch@yale.edu>  
 web www.corinnajentzsch.com  
 twitter [@coboje](https://twitter.com/coboje)  
+
+#### Links
+
+[Yale University](www.yale.edu "Yale University")
+
+[Department of Political Science at Yale University](http://politicalscience.yale.edu/ "Department of Political Science at Yale University")
+
 
