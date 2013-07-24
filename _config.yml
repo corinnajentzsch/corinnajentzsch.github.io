@@ -34,25 +34,25 @@ exclude: ["README.md"]
 prose:
   siteurl: "http://www.corinnajentzsch.com"
   media: "assets/media"
-  metadata:
-    - name: "layout"
-      field:
-        element: "multiselect"
-        label: "Select Layout"
-        placeholder: "Choose Layout"
-        options:
-          - name: "No Sidebar"
-            value: "default"
-          - name: "With Sidebar"
-            value: "sidebar"
-    - name: "title"
-        field:
-          element: "text"
-          label: "Title"
-          value: ""
-    - name: "banner"
-        field:
-          element: "text"
-          label: "Banner Image (Use Markdown)"
-          value: "![Alt Text](/assets/media/image-name.jpg)"
+# metadata:
+#   - name: "layout"
+#     field:
+#       element: "multiselect"
+#       label: "Select Layout"
+#       placeholder: "Choose Layout"
+#       options:
+#         - name: "No Sidebar"
+#           value: "default"
+#         - name: "With Sidebar"
+#           value: "sidebar"
+#   - name: "title"
+#       field:
+#         element: "text"
+#         label: "Title"
+#         value: ""
+#   - name: "banner"
+#       field:
+#         element: "text"
+#         label: "Banner Image (Use Markdown)"
+#         value: "![Alt Text](/assets/media/image-name.jpg)"
 
