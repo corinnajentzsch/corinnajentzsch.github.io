@@ -31,11 +31,10 @@ navigation:
 # Files to exclude from build
 exclude: ["README.md"]
 
-prose:
-  siteurl: "http://www.corinnajentzsch.com"
-  media: "assets/media"
-
 # this is still buggy: github.com/prose/prose/issues/504
+#prose:
+# siteurl: "http://www.corinnajentzsch.com"
+# media: "assets/media"
 # metadata:
 #   - name: "layout"
 #     field:
