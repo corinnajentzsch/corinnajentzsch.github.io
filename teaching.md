@@ -22,22 +22,22 @@ Advanced Undergraduate/Graduate Seminar: Qualitative Research Methods
 
 **“Collective Action and Social Movements” taught by Professor Elisabeth J. Wood, Spring 2011**
 
-> graded exams and supervised research papers for lecture course 
+> supervised students' research papers, provided feedback on regular response papers and graded exams for lecture course; held lecture on the global women's movement
 
 **“Introduction to International Relations” taught by Professor Jolyon Howorth, Fall 2010**
 
-> taught two sections for lecture course; Head TF
+> taught two sections for lecture course and graded exams; Head TF of nine TFs
 
 **“African Poverty and Western Aid” taught by Professor Christopher Blattman, Spring 2010**
 
-> taught writing intensive section for lecture course
+> taught writing intensive section for lecture course, provided feedback on weekly response papers and graded term papers
 
 **“Introduction to International Relations” taught by Professor Jolyon Howorth, Fall 2009**
 
-> taught two sections for lecture course 
+> taught two sections for lecture course and graded exams
 
 #### Teaching Assistant, Free University Berlin (Germany)
 
 **“Introduction to International Relations” taught by Professor Thomas Risse, Fall 2005**
 
-> taught one section for lecture course
+> taught one section for lecture course and graded exams
