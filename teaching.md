@@ -4,9 +4,11 @@ title: Teaching
 published: true
 ---
 
-### Teaching Statement
+![Gurué, Zambézia](/assets/media/gurue-street.jpg)
 
-TK
+## Teaching
+
+[under construction]
 
 ### Sample Syllabi
 
@@ -18,24 +20,24 @@ Advanced Undergraduate/Graduate Seminar: Qualitative Research Methods
 
 #### Teaching Fellow, Yale University
 
-**Spring 2011**
+**“Collective Action and Social Movements” taught by Professor Elisabeth J. Wood, Spring 2011**
 
-> graded exams and supervised research papers for lecture course “Collective Action and Social Movements” taught by Professor Elisabeth J. Wood
+> supervised students' research papers, provided feedback on regular response papers and graded exams for lecture course; held lecture on the global women's movement
 
-**Fall 2010**
+**“Introduction to International Relations” taught by Professor Jolyon Howorth, Fall 2010**
 
-> taught two sections for lecture course “Introduction to International Relations” taught by Professor Jolyon Howorth; Head TF
+> taught two sections for lecture course and graded exams; Head TF of nine TFs
 
-**Spring 2010**
+**“African Poverty and Western Aid” taught by Professor Christopher Blattman, Spring 2010**
 
-> taught writing intensive section for lecture course “African Poverty and Western Aid” taught by Professor Christopher Blattman
+> taught writing intensive section for lecture course, provided feedback on weekly response papers and graded term papers
 
-**Fall 2009**
+**“Introduction to International Relations” taught by Professor Jolyon Howorth, Fall 2009**
 
-> taught two sections for lecture course “Introduction to International Relations” taught by Professor Jolyon Howorth
+> taught two sections for lecture course and graded exams
 
 #### Teaching Assistant, Free University Berlin (Germany)
 
-**Fall 2005**
+**“Introduction to International Relations” taught by Professor Thomas Risse, Fall 2005**
 
-> taught one section for the lecture course “Introduction to International Relations” taught by Professor Thomas Risse
+> taught one section for lecture course and graded exams
