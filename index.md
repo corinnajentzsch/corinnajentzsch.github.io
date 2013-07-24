@@ -2,7 +2,7 @@
 layout: sidebar
 title: Home
 published: true
-banner: '![Namarroi, Zambezia](/assets/media/namarroi-lake.jpg)'
+banner: "![Namarroi, Zambezia](/assets/media/namarroi-lake.jpg)"
 ---
 
 ## Welcome!
@@ -13,6 +13,6 @@ In my dissertation, I analyze the constitutive dynamics of violence and politica
 
 My broader research interests include collective action and political violence; local political order in civil wars; African politics, culture and development; and  contemporary political theory. 
 
-Before coming to Yale, I studied political science at Free University Berlin, Germany, and Sciences Po Paris, France. My professional experience include a stay in Malawi where I worked for the German Organization for Technical Cooperation (GTZ, now GIZ) and conducted a study on conflicts between traditional authorities and elected local councilors. I also did research on protracted refugee situations in Zambia for a local Zambian NGO.
+Before coming to Yale, I studied political science at Free University Berlin, Germany, and at Sciences Po Paris, France. My professional experience include a stay in Malawi where I worked for the German Organization for Technical Cooperation (GTZ, now GIZ) and conducted a study on conflicts between traditional authorities and elected local councilors. I also did research on protracted refugee situations in Zambia for a local Zambian NGO.
 
 I’m a contributor to the blog [Africa is a Country](http://africasacountry.com/ "Africa is a Country").
