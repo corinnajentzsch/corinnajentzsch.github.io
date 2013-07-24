@@ -2,7 +2,7 @@
 layout: default
 title: Curriculum Vitae
 published: true
-banner: ![Lugela, Zambezia](/assets/media/lugela-btr.jpg)
+banner: '![Lugela, Zambezia](/assets/media/lugela-btr.jpg)'
 ---
 
 ## CV 

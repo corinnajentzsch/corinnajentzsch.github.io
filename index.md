@@ -2,7 +2,7 @@
 layout: sidebar
 title: Home
 published: true
-banner: ![Namarroi, Zambezia](/assets/media/namarroi-lake.jpg)
+banner: '![Namarroi, Zambezia](/assets/media/namarroi-lake.jpg)'
 ---
 
 ## Welcome!

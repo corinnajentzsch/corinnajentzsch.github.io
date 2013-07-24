@@ -2,7 +2,7 @@
 layout: default
 title: Teaching
 published: true
-banner: ![Gurué, Zambézia](/assets/media/gurue-street.jpg)
+banner: '![Gurué, Zambézia](/assets/media/gurue-street.jpg)'
 ---
 
 ## Teaching
