@@ -11,14 +11,14 @@ kramdown:
 title: Corinna Jentzsch
 
 # Default meta description and keywords
-description: Corinna Jentzsch's website
+description: "Corinna Jentzsch's website"
 keywords: 
-  - 'African politics'
-  - 'political science'
-  - 'Mozambique'
-  - 'civil war'
-  - 'militias'
-  - 'contemporary political theory'
+  - "African politics"
+  - "political science"
+  - "Mozambique"
+  - "civil war"
+  - "militias"
+  - "contemporary political theory"
 
 navigation:
 - text: Research
@@ -29,20 +29,30 @@ navigation:
   url: /cv/
 
 # Files to exclude from build
-exclude: ['README.md']
+exclude: ["README.md"]
 
 prose:
-  siteurl: 'http://coboje.github.io/'
-  media: 'assets/media'
+  siteurl: "http://www.corinnajentzsch.com"
+  media: "assets/media"
   metadata:
-    - name: 'layout'
+    - name: "layout"
       field:
-        element: 'multiselect'
-        label: 'Select Layout'
-        placeholder: 'Choose Layout'
+        element: "multiselect"
+        label: "Select Layout"
+        placeholder: "Choose Layout"
         options:
-          - name: 'No Sidebar'
-            value: default
-          - name: 'With Sidebar'
-            value: sidebar
+          - name: "No Sidebar"
+            value: "default"
+          - name: "With Sidebar"
+            value: "sidebar"
+    - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+    - name: "banner"
+        field:
+          element: "text"
+          label: "Banner Image (Use Markdown)"
+          value: "![Alt Text](/assets/media/image-name.jpg)"
 
