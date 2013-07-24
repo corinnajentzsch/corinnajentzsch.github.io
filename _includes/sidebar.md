@@ -13,8 +13,6 @@ twitter [@coboje](https://twitter.com/coboje)
 
 #### Links
 
-[Yale University](www.yale.edu "Yale University")
-
-[Department of Political Science at Yale University](http://politicalscience.yale.edu/ "Department of Political Science at Yale University")
-
+* [Yale University](www.yale.edu "Yale University")
+* [Department of Political Science at Yale University](http://politicalscience.yale.edu/ "Department of Political Science at Yale University")
 
