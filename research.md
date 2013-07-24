@@ -2,7 +2,7 @@
 layout: default
 title: Research
 published: true
-banner: "![NampulaCity](/assets/media/nampula-square.jpg)"
+banner: "![Nampula City](/assets/media/nampula-square.jpg)"
 ---
 
 ## Research
