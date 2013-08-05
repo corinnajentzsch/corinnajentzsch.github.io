@@ -2,41 +2,41 @@
 layout: default
 title: Teaching
 published: true
-banner: '![Gurué, Zambézia](/assets/media/gurue-street.jpg)'
+banner: "![Gurué, Zambézia](/assets/media/gurue-street.jpg)"
 ---
 
 ## Teaching
 
-[under construction]
+In teaching international relations and comparative politics, my goal is to nurture my students’ ability to critically engage with political events, become knowledgeable observers of political processes, and active participants in these processes as informed citizens.
 
-### Sample Syllabi
-
-Undergraduate Seminar/Lecture Course: Collective Action and Political Violence
-
-Advanced Undergraduate/Graduate Seminar: Qualitative Research Methods
+Please contact me for my complete teaching portfolio that includes my statement of teaching philosophy, sample syllabi and student and peer evaluations.
 
 ### Teaching Experience
+
+#### Yale University Certificate of College Teaching Preparation Program, Spring 2013
+
+> Participated in Fundamentals of Teaching workshop plus eight advanced teaching workshops on lecturing, course syllabi design, diversity in the classroom and other topics; completed teaching observations and was observed while teaching
 
 #### Teaching Fellow, Yale University
 
 **“Collective Action and Social Movements” taught by Professor Elisabeth J. Wood, Spring 2011**
 
-> supervised students' research papers, provided feedback on regular response papers and graded exams for lecture course; held lecture on the global women's movement
+> Supervised student papers; advised students on research design and writing; volunteered and held lecture on global women’s movement; graded exams and research papers
 
 **“Introduction to International Relations” taught by Professor Jolyon Howorth, Fall 2010**
 
-> taught two sections for lecture course and graded exams; Head TF of nine TFs
+> Taught two sections for lecture course; graded exams; Head TF of nine TFs 
 
 **“African Poverty and Western Aid” taught by Professor Christopher Blattman, Spring 2010**
 
-> taught writing intensive section for lecture course, provided feedback on weekly response papers and graded term papers
+> Taught writing intensive section for lecture course; advised students on writing response papers; graded term papers 
 
 **“Introduction to International Relations” taught by Professor Jolyon Howorth, Fall 2009**
 
-> taught two sections for lecture course and graded exams
+> Taught two sections for lecture course; graded exams 
 
 #### Teaching Assistant, Free University Berlin (Germany)
 
 **“Introduction to International Relations” taught by Professor Thomas Risse, Fall 2005**
 
-> taught one section for lecture course and graded exams
+> Taught one section for 30 students for lecture course; graded exams
