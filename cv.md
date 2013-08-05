@@ -15,8 +15,8 @@ Please contact me for a pdf version of my complete CV.
 Ph.D. program in Political Science, Yale University (M.A. 2010, M.Phil. 2011, Ph.D. expected 2014) 
 
 > Dissertation: Militias and the Dynamics of Civil Wars  
-> Dissertation Committee: Elisabeth J. Wood, Stathis N. Kalyvas, Mike McGovern, Ato Kwame Onoma 
-> Field examinations: Comparative Politics, International Relations, 	Political Sociology  
+> Dissertation Committee: Elisabeth J. Wood, Stathis N. Kalyvas, Mike McGovern, Ato Kwame Onoma   
+> Field examinations: International Relations, Comparative Politics, Political Sociology  
 
 2006   
 Diplom (M.A. equivalent) in Political Science, Free University Berlin, Germany  
@@ -25,6 +25,8 @@ Diplom (M.A. equivalent) in Political Science, Free University Berlin, Germany
 
 2004–2005   
 Exchange program at Sciences Po, Paris, France
+
+> Fields of specialization: International Conflict and Development
 
 ### Honors
 
@@ -57,7 +59,6 @@ Teaching Fellow, Yale University
 Teaching Assistant, Free University Berlin (Germany)
 
 > Taught section for 30 students for lecture course on International Relations
-
 
 ### Professional experience (selections)
 
@@ -107,6 +108,6 @@ Intern with the Malawi-German Programme for Democracy and Decentralisation/MGPDD
 
 Mozambique (12 months), Malawi (3 months), Zambia (2 months)
 
-### Languages
-
-German (native), English (fluent), Portuguese (advanced), French (advanced), Kiswahili (intermediate)
+### Skills and proficiencies
+Languages: German (native), English (fluent), Portuguese (advanced), French (advanced), Kiswahili (intermediate)    
+Software: Microsoft Office, STATA, TAMS Analyzer (Qualitative Analysis Software), ArcGIS, Adobe InDesign
