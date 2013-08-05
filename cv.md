@@ -60,7 +60,7 @@ Teaching Assistant, Free University Berlin (Germany)
 
 > Taught section for 30 students for lecture course on International Relations
 
-### Professional experience (selections)
+### Selected professional experience
 
 2012   
 Co-Organizer of the international conference “Paramilitaries, Civil Defense Forces and Militias in Civil Wars,” October 19-20, 2012, Yale University    
