@@ -28,7 +28,7 @@ Exchange program at Sciences Po, Paris, France
 
 > Fields of specialization: International Conflict and Development
 
-### Honors
+### Honors and fellowships
 
 2012-2013   	
 University Fellowship from Yale University  
@@ -48,7 +48,7 @@ Study-abroad grants from the German National Academic Foundation and the Europea
 2002-2006	   
 Scholarship from the German National Academic Foundation
 
-### Teaching
+### Teaching experience
 
 2009-2011
 Teaching Fellow, Yale University
