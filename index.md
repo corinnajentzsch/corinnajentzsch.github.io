@@ -7,7 +7,7 @@ banner: "![Namarroi, Zambezia](/assets/media/namarroi-lake.jpg)"
 
 ## Welcome!
 
-I’m a Ph.D. candidate at the Department of Political Science at Yale University. My fields of specialization are comparative politics, international relations, political sociology, and qualitative methods.
+I’m a Ph.D. candidate at the Department of Political Science at Yale University. My fields of interest are international relations, comparative politics, security studies, African Politics, and qualitative methods.
 
 In my dissertation, I analyze the constitutive dynamics of violence and political order. I seek to explain community mobilization against wartime violence, the formation of militias, and their impact on civil war dynamics. In 2011-2012, I conducted fieldwork on the post-independence war in Mozambique. 
 
