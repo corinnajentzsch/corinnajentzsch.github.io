@@ -30,7 +30,7 @@ Exchange program at Sciences Po, Paris, France
 
 ### Honors and fellowships
 
-2012-2013   	
+2012-2013     
 University Fellowship from Yale University  
 
 2011	  
