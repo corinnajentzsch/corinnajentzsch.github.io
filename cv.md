@@ -7,7 +7,7 @@ banner: "![Lugela, Zambezia](/assets/media/lugela-btr.jpg)"
 
 ## CV 
 
-Please contact me for a pdf version of my complete CV.
+You can download a complete version of my CV here.
 
 ### Education
 
@@ -16,7 +16,7 @@ Ph.D. program in Political Science, Yale University (M.A. 2010, M.Phil. 2011, Ph
 
 > Dissertation: Militias and the Dynamics of Civil Wars  
 > Dissertation Committee: Elisabeth J. Wood, Stathis N. Kalyvas, Mike McGovern, Ato Kwame Onoma   
-> Field examinations: International Relations, Comparative Politics, Political Sociology  
+> Field examinations: Comparative Politics, International Relations, Political Sociology  
 
 2006   
 Diplom (M.A. equivalent) in Political Science, Free University Berlin, Germany  
