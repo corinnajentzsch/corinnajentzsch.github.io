@@ -7,7 +7,7 @@ banner: "![Lugela, Zambezia](/assets/media/lugela-btr.jpg)"
 
 ## CV 
 
-You can download a complete version of my CV here.
+You can download a complete version of my CV [here](https://dl.dropboxusercontent.com/u/8807102/Jentzsch_CV.pdf "Jentzsch CV").
 
 ### Education
 
