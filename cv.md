@@ -48,19 +48,8 @@ Study-abroad grants from the German National Academic Foundation and the Europea
 2002-2006	   
 Scholarship from the German National Academic Foundation
 
-### Teaching experience
-
-2009-2011
-Teaching Fellow, Yale University
-
-> Taught sections for lecture courses on International Relations, African Poverty and Western Aid, and Social Movements and Collective Action
-
-2006
-Teaching Assistant, Free University Berlin (Germany)
-
-> Taught section for 30 students for lecture course on International Relations
-
 ### Research experience
+
 2011-2012, 2010   
 Dissertation field research in rural Mozambique
 
@@ -90,6 +79,18 @@ Co-investigator at Sciences Po, Paris, France/School of International and Public
 Research Group on War (Fork), Free University Berlin, Germany
 
 > Researched the “new” facets of civil war and international third party intervention with Sven Chojnacki (professor of peace and conflict studies)
+
+### Teaching experience
+
+2009-2011
+Teaching Fellow, Yale University
+
+> Taught sections for lecture courses on International Relations, African Poverty and Western Aid, and Social Movements and Collective Action
+
+2006
+Teaching Assistant, Free University Berlin (Germany)
+
+> Taught section for 30 students for lecture course on International Relations
 
 ### Publications
 
