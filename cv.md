@@ -75,11 +75,6 @@ Co-investigator at Sciences Po, Paris, France/School of International and Public
 
 > Participated in an international workshop on new modes of international governance and global governance; project funded by the Charles Léopold Mayer Foundation, Paris, France; conducted numerous interviews with scholars and decision-makers in France and the USA; co-wrote report for use in foundation’s work 
 
-2003-2007   
-Research Group on War (Fork), Free University Berlin, Germany
-
-> Researched the “new” facets of civil war and international third party intervention with Sven Chojnacki (professor of peace and conflict studies)
-
 ### Teaching experience
 
 2009-2011
