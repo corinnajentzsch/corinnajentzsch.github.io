@@ -15,7 +15,7 @@ You can download a complete version of my CV [here](https://dl.dropboxuserconten
 Ph.D. program in Political Science, Yale University (M.A. 2010, M.Phil. 2011, Ph.D. expected 2014) 
 
 > Dissertation: Militias and the Dynamics of Civil Wars  
-> Dissertation Committee: Elisabeth J. Wood, Stathis N. Kalyvas, Mike McGovern, Ato Kwame Onoma   
+> Dissertation Committee: Elisabeth J. Wood (chair), Stathis N. Kalyvas, Mike McGovern   
 > Field examinations: Comparative Politics, International Relations, Political Sociology  
 
 2006   
@@ -60,27 +60,36 @@ Teaching Assistant, Free University Berlin (Germany)
 
 > Taught section for 30 students for lecture course on International Relations
 
-### Selected professional experience
+### Research experience
+2011-2012, 2010   
+Dissertation field research in rural Mozambique
 
-2012   
-Co-Organizer of the international conference “Paramilitaries, Civil Defense Forces and Militias in Civil Wars,” October 19-20, 2012, Yale University    
+> Dissertation research project funded by the National Science Foundation and Yale University; researched the history of the civil war and community resistance against war-time violence; interviewed over 250 peasants, government representatives, former combatants, academics, journalists, and NGO workers; collected more than 10,000 pages of archival documents in provincial government archives; supervised three research assistants 
 
-> Wrote Call for Papers; selected participants; was responsible for budget and logistics; prepared publication of selected conference papers.  
+2008   
+Pre-Dissertation summer field research in rural Zambia 
 
-2008	   
-Consultant/volunteer for UNHRC partner HODI, Lusaka, Zambia  
+> Researched order and violence in two refugee camps; conducted numerous interviews and focus-group discussions with refugees, NGO workers and local officials; prepared a report on community services in the camps for a a local UNHCR partner (HODI)
 
-> Evaluated UNHCR partner community services projects in two UNHCR camps for refugees from DR Congo and Rwanda; interviewed refugees, community workers, and NGO staff; conducted focus group discussions with refugees for evaluation and research project on refugee-agencies relations and refugee-host community relations; wrote evaluation report and provided recommendations for future work of the NGO.
+2008   
+Research assistant for Professor Stathis N. Kalyvas, Yale University
 
-2006-2007	   
-Assistant at Research Center 700 of the German Research Foundation “Governance in Areas of Limited Statehood: New Modes of Governance?”, Free University Berlin, Germany  
+> Prepared literature review on the dynamics of civil wars for a student text book on civil wars
 
-> Co-organizer of a conference for 500 participants; edited and produced publications and information materials for the research community and general public; worked in a team of five assistants to the manager of the research center.
+2005  
+Intern/Investigator with the Malawi-German Program for Democracy and Decentralisation/MGPDD, German Technical Cooperation (GTZ/GIZ), Lilongwe, Malawi
 
-2005	   
-Intern with the Malawi-German Programme for Democracy and Decentralisation/MGPDD, German Technical Cooperation (GTZ/GIZ), Lilongwe, Malawi  
+> Conducted study on traditional authorities in democracies based on original interviews with traditional authorities, local government representatives, and local councilors; wrote report that included recommendations for MGPDD’s future work
 
-> Conducted study on the conflicts between traditional authorities and local elected representatives based on original interviews with traditional authorities, local government representatvies, and local councilors; wrote report that included recommendations for MGPDD’s future work.
+2005   
+Co-investigator at Sciences Po, Paris, France/School of International and Public Affairs, Columbia University, New York
+
+> Participated in an international workshop on new modes of international governance and global governance; project funded by the Charles Léopold Mayer Foundation, Paris, France; conducted numerous interviews with scholars and decision-makers in France and the USA; co-wrote report for use in foundation’s work 
+
+2003-2007   
+Research Group on War (Fork), Free University Berlin, Germany
+
+> Researched the “new” facets of civil war and international third party intervention with Sven Chojnacki (professor of peace and conflict studies)
 
 ### Publications
 
