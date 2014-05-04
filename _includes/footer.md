@@ -1,1 +1,1 @@
-&copy; 2013. Some rights reserved.
+&copy; 2013-2014.
