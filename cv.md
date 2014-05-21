@@ -89,6 +89,9 @@ Teaching Assistant, Free University Berlin (Germany)
 
 ### Publications
 
+2014
+"The Financing of International Peace Operations in Africa: A Review of Recent Research and Analyses." _APN Working Papers No. 1_, SSRC African Peacebuilding Network.
+
 2008   
 “Governance Without Government—Politische Ordnung im Osten der DR Kongo” [Political Order in Eastern DR Congo]. In Ordnungen im Wandel. Globale und lokale Wirklichkeiten im Spiegel transdisziplinärer Analysen, eds. Friedrich Arndt, Carmen Dege, Christian Ellermann, Maximilian Mayer, David Teller, Lisbeth Zimmermann, Bielefeld: transcript.
 
