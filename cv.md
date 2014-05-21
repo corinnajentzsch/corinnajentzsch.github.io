@@ -89,7 +89,7 @@ Teaching Assistant, Free University Berlin (Germany)
 
 ### Publications
 
-2014
+2014 
 "The Financing of International Peace Operations in Africa: A Review of Recent Research and Analyses." _APN Working Papers No. 1_, SSRC African Peacebuilding Network.
 
 2008   
