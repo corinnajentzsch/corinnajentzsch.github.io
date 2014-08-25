@@ -9,6 +9,11 @@ banner: "![Lugela, Zambezia](/assets/media/lugela-btr.jpg)"
 
 You can download a complete version of my CV [here](https://dl.dropboxusercontent.com/u/8807102/Jentzsch_CV.pdf "Jentzsch CV").
 
+### Current Position
+
+2014—    
+Assistant Professor (UD 2), Institute of Political Science, Leiden University, Leiden, The Netherlands
+
 ### Education
 
 2007-  
@@ -16,17 +21,12 @@ Ph.D. program in Political Science, Yale University (M.A. 2010, M.Phil. 2011, Ph
 
 > Dissertation: Militias and the Dynamics of Civil Wars  
 > Dissertation Committee: Elisabeth J. Wood (chair), Stathis N. Kalyvas, Mike McGovern   
-> Field examinations: Comparative Politics, International Relations, Political Sociology  
 
 2006   
 Diplom (M.A. equivalent) in Political Science, Free University Berlin, Germany  
 
-> Fields of specialization: International Relations, Political Theory
-
 2004–2005   
 Exchange program at Sciences Po, Paris, France
-
-> Fields of specialization: International Conflict and Development
 
 ### Honors and fellowships
 
@@ -48,50 +48,19 @@ Study-abroad grants from the German National Academic Foundation and the Europea
 2002-2006	   
 Scholarship from the German National Academic Foundation
 
-### Research experience
-
-2011-2012, 2010   
-Dissertation field research in rural Mozambique
-
-> Dissertation research project funded by the National Science Foundation and Yale University; researched the history of the civil war and community resistance against war-time violence; interviewed over 250 peasants, government representatives, former combatants, academics, journalists, and NGO workers; collected more than 10,000 pages of archival documents in provincial government archives; supervised three research assistants 
-
-2008   
-Pre-Dissertation summer field research in rural Zambia 
-
-> Researched order and violence in two refugee camps; conducted numerous interviews and focus-group discussions with refugees, NGO workers and local officials; prepared a report on community services in the camps for a a local UNHCR partner (HODI)
-
-2008   
-Research assistant for Professor Stathis N. Kalyvas, Yale University
-
-> Prepared literature review on the dynamics of civil wars for a student text book on civil wars
-
-2005  
-Intern/Investigator with the Malawi-German Program for Democracy and Decentralisation/MGPDD, German Technical Cooperation (GTZ/GIZ), Lilongwe, Malawi
-
-> Conducted study on traditional authorities in democracies based on original interviews with traditional authorities, local government representatives, and local councilors; wrote report that included recommendations for MGPDD’s future work
-
-2005   
-Co-investigator at Sciences Po, Paris, France/School of International and Public Affairs, Columbia University, New York
-
-> Participated in an international workshop on new modes of international governance and global governance; project funded by the Charles Léopold Mayer Foundation, Paris, France; conducted numerous interviews with scholars and decision-makers in France and the USA; co-wrote report for use in foundation’s work 
-
-### Teaching experience
-
-2009-2011
-Teaching Fellow, Yale University
-
-> Taught sections for lecture courses on International Relations, African Poverty and Western Aid, and Social Movements and Collective Action
-
-2006
-Teaching Assistant, Free University Berlin (Germany)
-
-> Taught section for 30 students for lecture course on International Relations
-
 ### Publications
 
-2014    
-["The Financing of International Peace Operations in Africa: A Review of Recent Research and Analyses."](webarchive.ssrc.org/working-papers/APN_WorkingPapers01_Jentzsch.pdf "APN WorkingPapers 01 Jentzsch") _APN Working Papers No. 1_, SSRC African Peacebuilding Network.
+_Peer-reviewed_    
+(under review). Co-editor, Special Issue on “Militias in Civil Wars” in _Journal of Conflict Resolution_ (together with Stathis N. Kalyvas and Livia I. Schubiger).    
 
+(under review). “Militias in Civil Wars: Concepts, Empirical Trends, and Theoretical Implications,” _Journal of Conflict Resolution_(together with Stathis N. Kalyvas and Livia I. Schubiger)    
+
+(under review). “Opportunities and Challenges to the Financing of African Union Peace Operations.” _African Conflict and Peacebuilding Review_.
+
+2014    
+["The Financing of International Peace Operations in Africa: A Review of Recent Research and Analyses."](webarchive.ssrc.org/working-papers/APN_WorkingPapers01_Jentzsch.pdf "APN WorkingPapers 01 Jentzsch") _APN Working Papers No. 1_, SSRC African Peacebuilding Network.   
+
+_Other_    
 2008   
 “Governance Without Government—Politische Ordnung im Osten der DR Kongo” [Political Order in Eastern DR Congo]. In Ordnungen im Wandel. Globale und lokale Wirklichkeiten im Spiegel transdisziplinärer Analysen, eds. Friedrich Arndt, Carmen Dege, Christian Ellermann, Maximilian Mayer, David Teller, Lisbeth Zimmermann, Bielefeld: transcript.
 
@@ -111,6 +80,23 @@ Teaching Assistant, Free University Berlin (Germany)
 
 2011    
 “Counterinsurgent Militias and the Dynamics of Civil War.” Paper presented at the International Studies Association’s Annual Meeting, Montréal, March 16-19, 2011.
+
+### Teaching experience   
+
+####Leiden University     
+Instructor   
+> M.A. Seminar, Post-Conflict Politics, Spring 2015   
+> M.A. Seminar, Civil Wars, Spring 2015   
+> M.A. Thesis Seminar, Diversity, Democracy and Conflict, Fall 2014   
+
+####Yale University	   
+Teacher Training    
+> Yale University Certificate of College Teaching Preparation, Spring 2013   
+> Teaching Fellow and Guest Lecturer, Department of Political Science, 2009-2011, 2013    
+
+####Free University Berlin, Germany    
+Teaching Assistant    
+> Department of Political Science, 2006
 
 ### Fieldwork experience
 
