@@ -16,7 +16,7 @@ Assistant Professor (UD 2), Institute of Political Science, Leiden University, L
 
 ### Education
 
-2007-  
+2007—  
 Ph.D. program in Political Science, Yale University (M.A. 2010, M.Phil. 2011, Ph.D. expected 2014) 
 
 > Dissertation: Militias and the Dynamics of Civil Wars  
@@ -25,12 +25,12 @@ Ph.D. program in Political Science, Yale University (M.A. 2010, M.Phil. 2011, Ph
 2006   
 Diplom (M.A. equivalent) in Political Science, Free University Berlin, Germany  
 
-2004–2005   
+2004—2005   
 Exchange program at Sciences Po, Paris, France
 
 ### Honors and fellowships
 
-2012-2013     
+2012—2013     
 University Fellowship from Yale University  
 
 2011	  
@@ -42,10 +42,10 @@ Yale University MacMillan Center International Dissertation Research Grant for f
 2008	   
 Yale University MacMillan Center Pre-Dissertation Grant (Cobb Fellowship) for summer field research in refugee camps in Zambia
 
-2004–2005	   
+2004—2005	   
 Study-abroad grants from the German National Academic Foundation and the European Union for studies at Sciences Po, Paris, France
 
-2002-2006	   
+2002—2006	   
 Scholarship from the German National Academic Foundation
 
 ### Publications
@@ -92,7 +92,7 @@ Instructor
 ####Yale University	   
 Teacher Training    
 > Yale University Certificate of College Teaching Preparation, Spring 2013   
-> Teaching Fellow and Guest Lecturer, Department of Political Science, 2009-2011, 2013    
+> Teaching Fellow and Guest Lecturer, Department of Political Science, 2009—2011, 2013    
 
 ####Free University Berlin, Germany    
 Teaching Assistant    
