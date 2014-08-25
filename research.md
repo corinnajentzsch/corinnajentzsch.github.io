@@ -22,19 +22,3 @@ Civil war, violence and insecurity give rise to a variety of new forms of order.
 #### Pre-Dissertation summer field research in rural Zambia (2008)
 	
 > Pre-dissertation research project funded by Yale University; researched order and violence in two refugee camps; conducted numerous interviews and focus-group discussions with refugees, NGO workers and local officials; prepared a report on community services in the camps for a a local UNHCR partner NGO (HODI)
-
-#### Research Assistant for Professor Stathis Kalyvas, Yale University (2008)
-
-> Prepared literature review on the dynamics of civil wars for a student text book on civil wars
-
-#### Intern/Investigator with the Malawi-German Programme for Democracy and Decentralisation/MGPDD, German Technical Cooperation (GTZ/GIZ), Lilongwe, Malawi (2005)
-
-> Conducted study on the conflicts between traditional authorities and local elected representatives based on original interviews with traditional authorities, local government representatvies, and local councilors; wrote report that included recommendations for MGPDD’s future work
-
-#### Co-investigator at Sciences Po, Paris, France/School of International and Public Affairs, Columbia University, New York (2005)
-
-> Research project funded by Charles Léopold Mayer Foundation, Paris, France; participated in an international workshop on new modes of international governance and global governance; conducted numerous interviews with scholars and decision-makers in France and the USA; co-wrote report for use in foundation’s work
-
-#### Research Group on War (Fork), Free University Berlin, Germany (2003-2007)
-
-> Researched the “new” facets of civil war and international third party intervention with Sven Chojnacki (professor of peace and conflict studies)
