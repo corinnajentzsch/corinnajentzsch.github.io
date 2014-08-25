@@ -13,17 +13,21 @@ In teaching international relations and comparative politics, my goal is to nurt
 
 ####Leiden University     
 Instructor   
+
 > M.A. Seminar, Post-Conflict Politics, Spring 2015   
 > M.A. Seminar, Civil Wars, Spring 2015   
 > M.A. Thesis Seminar, Diversity, Democracy and Conflict, Fall 2014   
 
 ####Yale University	   
 Teacher Training    
+
 > Yale University Certificate of College Teaching Preparation, Spring 2013   
 
 Teaching Fellow and Guest Lecturer    
+
 > Department of Political Science, 2009—2011, 2013    
 
 ####Free University Berlin, Germany    
 Teaching Assistant    
+
 > Department of Political Science, 2006
