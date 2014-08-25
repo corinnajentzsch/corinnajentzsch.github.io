@@ -21,7 +21,7 @@ Instructor
 Teacher Training    
 > Yale University Certificate of College Teaching Preparation, Spring 2013   
 
-Teaching Fellow and Guest Lecturer
+Teaching Fellow and Guest Lecturer    
 > Department of Political Science, 2009—2011, 2013    
 
 ####Free University Berlin, Germany    
