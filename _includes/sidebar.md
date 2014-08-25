@@ -1,19 +1,26 @@
+---
+published: false
+title: Untitled
+layout: default
+banner: "![Alt Text](/assets/media/image-name.jpg)"
+---
+
 #### Contact
 
 Corinna Jentzsch  
-Department of Political Science  
-Yale University  
-P.O. Box 208301  
-New Haven, CT 06520-8301  
-USA
+Institute of Political Science    
+Leiden University    
+Wassenaarseweg 52     
+2333 AK Leiden    
+The Netherlands     
 
-email <corinna.jentzsch@yale.edu>  
+email <c.jentzsch@fsw.leidenuniv.nl>  
 web www.corinnajentzsch.com  
 twitter [@coboje](https://twitter.com/coboje)  
 
 #### Links
 
-* [Yale University](www.yale.edu "Yale University")
+* [Institute of Political Science at Leiden University](http://www.socialsciences.leiden.edu/politicalscience/ "Institute of Political Science at Leiden University")
 * [Department of Political Science at Yale University](http://politicalscience.yale.edu/ "Department of Political Science at Yale University")
 * [Program on Order, Conflict, and Violence at Yale University](http://www.yale.edu/macmillan/ocvprogram/ "OCV")
 * [Africa is a Country](http://africasacountry.com/ "AIAC")
