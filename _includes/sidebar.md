@@ -8,7 +8,8 @@ banner: "![Alt Text](/assets/media/image-name.jpg)"
 #### Contact
 
 Corinna Jentzsch  
-Institute of Political Science    
+Institute of Political Science   
+Pieter de la Court Building    
 Leiden University    
 Wassenaarseweg 52     
 2333 AK Leiden    
