@@ -56,3 +56,7 @@ prose:
           element: "text"
           label: "Banner Image (Use Markdown)"
           value: "![Alt Text](/assets/media/image-name.jpg)"
+  ignore:
+    - _config.yml
+    - /_layouts
+    - /_includes
