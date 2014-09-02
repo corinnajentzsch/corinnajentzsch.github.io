@@ -57,6 +57,9 @@ prose:
           label: "Banner Image (Use Markdown)"
           value: "![Alt Text](/assets/media/image-name.jpg)"
   ignore:
-    - _config.yml
-    - /_layouts
-    - /_includes
+    - /humans.txt
+    - /robots.txt
+    - /README.md
+    - /CNAME
+    - /404.html
+    - /.gitignore
