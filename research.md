@@ -16,11 +16,11 @@ Civil war, violence and insecurity give rise to a variety of new forms of order.
 ### Publications
 
 _Peer-reviewed_    
-(under review). Co-editor, Special Issue on “Militias in Civil Wars” in _Journal of Conflict Resolution_ (together with Stathis N. Kalyvas and Livia I. Schubiger).    
-
-(under review). “Militias in Civil Wars: Concepts, Empirical Trends, and Theoretical Implications,” _Journal of Conflict Resolution_(together with Stathis N. Kalyvas and Livia I. Schubiger)    
-
-(under review). “Opportunities and Challenges to the Financing of African Union Peace Operations.” _African Conflict and Peacebuilding Review_.
+(Forthcoming). Co-editor, Special Issue on “Militias in Civil Wars” in _Journal of Conflict Resolution_ (together with Stathis N. Kalyvas and Livia I. Schubiger).    
+ 
+(Forthcoming). “Militias in Civil Wars: Concepts, Empirical Trends, and Theoretical Implications,” _Journal of Conflict Resolution_(together with Stathis N. Kalyvas and Livia I. Schubiger)    
+ 
+2014. [“Opportunities and Challenges to the Financing of African Union Peace Operations.”](http://www.jstor.org/stable/10.2979/africonfpeacrevi.4.2.86 "Financing of African Union Peace Operations") _African Conflict and Peacebuilding Review_ 4(2): 86-107.
 
 2014    
 ["The Financing of International Peace Operations in Africa: A Review of Recent Research and Analyses."](webarchive.ssrc.org/working-papers/APN_WorkingPapers01_Jentzsch.pdf "APN WorkingPapers 01 Jentzsch") _APN Working Papers No. 1_, SSRC African Peacebuilding Network.   
