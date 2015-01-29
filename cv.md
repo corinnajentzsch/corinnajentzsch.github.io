@@ -16,8 +16,8 @@ Assistant Professor (UD 2), Institute of Political Science, Leiden University, L
 
 ### Education
 
-2007—  
-Ph.D. program in Political Science, Yale University (M.A. 2010, M.Phil. 2011, Ph.D. expected 2014) 
+2007—2014  
+Ph.D. program in Political Science, Yale University (M.A. 2010, M.Phil. 2011, Ph.D. 2014) 
 
 > Dissertation: Militias and the Dynamics of Civil Wars  
 > Dissertation Committee: Elisabeth J. Wood (chair), Stathis N. Kalyvas, Mike McGovern   
@@ -51,11 +51,11 @@ Scholarship from the German National Academic Foundation
 ### Publications
 
 _Peer-reviewed_    
-(under review). Co-editor, Special Issue on “Militias in Civil Wars” in _Journal of Conflict Resolution_ (together with Stathis N. Kalyvas and Livia I. Schubiger).    
+(Forthcoming). Co-editor, Special Issue on “Militias in Civil Wars” in _Journal of Conflict Resolution_ (together with Stathis N. Kalyvas and Livia I. Schubiger).    
 
-(under review). “Militias in Civil Wars: Concepts, Empirical Trends, and Theoretical Implications,” _Journal of Conflict Resolution_(together with Stathis N. Kalyvas and Livia I. Schubiger)    
+(Forthcoming). “Militias in Civil Wars: Concepts, Empirical Trends, and Theoretical Implications,” _Journal of Conflict Resolution_(together with Stathis N. Kalyvas and Livia I. Schubiger)    
 
-(under review). “Opportunities and Challenges to the Financing of African Union Peace Operations.” _African Conflict and Peacebuilding Review_.
+2014. [“Opportunities and Challenges to the Financing of African Union Peace Operations.”](http://www.jstor.org/stable/10.2979/africonfpeacrevi.4.2.86 "Financing of African Union Peace Operations") _African Conflict and Peacebuilding Review_ 4(2): 86-107.
 
 2014    
 ["The Financing of International Peace Operations in Africa: A Review of Recent Research and Analyses."](webarchive.ssrc.org/working-papers/APN_WorkingPapers01_Jentzsch.pdf "APN WorkingPapers 01 Jentzsch") _APN Working Papers No. 1_, SSRC African Peacebuilding Network.   
@@ -65,6 +65,12 @@ _Other_
 “Governance Without Government—Politische Ordnung im Osten der DR Kongo” [Political Order in Eastern DR Congo]. In _Ordnungen im Wandel. Globale und lokale Wirklichkeiten im Spiegel transdisziplinärer Analysen_, eds. Friedrich Arndt, Carmen Dege, Christian Ellermann, Maximilian Mayer, David Teller, Lisbeth Zimmermann, Bielefeld: transcript.
 
 ### Presentations
+
+2014. 
+“The Diffusion of Militias in Civil Wars: Peasant Resistance to Wartime
+Violence in Post-Independent Mozambique.” Paper presented at the Workshop
+Milizen und die Herstellung von (Un-)Sicherheit, Osnabrück, Germany, July 10-11,
+2014.
 
 2013	   
 “‘Sharpen your hoes and picks.’ Peasant Mobilization for Self-Defense during Mozambique’s Post-Independence War (1976-1992).” Paper presented at the Order, Conflict, and Violence Speaker Series, Yale University, April 9, 2013, and Harvard-Yale-MIT Graduate Conference on Political Violence, Harvard University, Cambridge, MA, April 27, 2013.
