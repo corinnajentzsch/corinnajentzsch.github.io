@@ -20,7 +20,7 @@ _Peer-reviewed_
  
 (Forthcoming). “Militias in Civil Wars: Concepts, Empirical Trends, and Theoretical Implications,” _Journal of Conflict Resolution_ (together with Stathis N. Kalyvas and Livia I. Schubiger)    
  
-2014
+2014     
 [“Opportunities and Challenges to the Financing of African Union Peace Operations.”](http://www.jstor.org/stable/10.2979/africonfpeacrevi.4.2.86 "Financing of African Union Peace Operations") _African Conflict and Peacebuilding Review_ 4(2): 86-107.
 
 2014    
