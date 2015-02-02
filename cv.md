@@ -67,7 +67,7 @@ _Other_
 
 ### Presentations
 
-2014. 
+2014     
 “The Diffusion of Militias in Civil Wars: Peasant Resistance to Wartime
 Violence in Post-Independent Mozambique.” Paper presented at the Workshop
 Milizen und die Herstellung von (Un-)Sicherheit, Osnabrück, Germany, July 10-11,
