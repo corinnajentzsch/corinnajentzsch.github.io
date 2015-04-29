@@ -69,26 +69,26 @@ _Other_
 
 ### Presentations
 
+2015     
+“The Fragmentation and Alliance of Pro-Government Militias. Theory and Evidence from Mozambique.” Paper presented at the International Studies Association’s Annual Meeting, New Orleans, February 18-21.
+
 2014     
-“The Diffusion of Militias in Civil Wars: Peasant Resistance to Wartime
-Violence in Post-Independent Mozambique.” Paper presented at the Workshop
-Milizen und die Herstellung von (Un-)Sicherheit, Osnabrück, Germany, July 10-11,
-2014.
+“The Diffusion of Militias in Civil Wars: Peasant Resistance to Wartime Violence in Post-Independent Mozambique.” Paper presented at the Workshop Milizen und die Herstellung von (Un-)Sicherheit, Osnabrück, Germany, July 10-11.
 
 2013	   
-“‘Sharpen your hoes and picks.’ Peasant Mobilization for Self-Defense during Mozambique’s Post-Independence War (1976-1992).” Paper presented at the Order, Conflict, and Violence Speaker Series, Yale University, April 9, 2013, and Harvard-Yale-MIT Graduate Conference on Political Violence, Harvard University, Cambridge, MA, April 27, 2013.
+“‘Sharpen your hoes and picks.’ Peasant Mobilization for Self-Defense during Mozambique’s Post-Independence War (1976-1992).” Paper presented at the Order, Conflict, and Violence Speaker Series, Yale University, April 9, 2013, and Harvard-Yale-MIT Graduate Conference on Political Violence, Harvard University, Cambridge, MA, April 27.
 
 2013   
-“The Power of a Vaccine: Peasant Resistance to Wartime Violence in Post-Independence Mozambique.” Paper presented at the North East Workshop on Southern Africa (NEWSA), Burlington, VT, April 19-21, 2013.
+“The Power of a Vaccine: Peasant Resistance to Wartime Violence in Post-Independence Mozambique.” Paper presented at the North East Workshop on Southern Africa (NEWSA), Burlington, VT, April 19-21.
 
 2012   
-“People Tired of War: Militias and the Dynamics of War in Mozambique, 1982-92.” Paper presented at the Conference Paramilitaries, Civil Defense Forces and Militias in Civil Wars, Yale University, New Haven, CT, October 19-20, 2012.
+“People Tired of War: Militias and the Dynamics of War in Mozambique, 1982-92.” Paper presented at the Conference Paramilitaries, Civil Defense Forces and Militias in Civil Wars, Yale University, New Haven, CT, October 19-20.
 
 2012   
-“People Tired of War: Popular Self-Defense and the Dynamics of War in Nampula and Zambézia provinces.” Paper presented at the Workshop Provincial wars? Local dynamics of the armed conflict in Mozambique, 1977-1992, IESE, Maputo, Mozambique, July 23, 2012.
+“People Tired of War: Popular Self-Defense and the Dynamics of War in Nampula and Zambézia provinces.” Paper presented at the Workshop Provincial wars? Local dynamics of the armed conflict in Mozambique, 1977-1992, IESE, Maputo, Mozambique, July 23.
 
 2011    
-“Counterinsurgent Militias and the Dynamics of Civil War.” Paper presented at the International Studies Association’s Annual Meeting, Montréal, March 16-19, 2011.
+“Counterinsurgent Militias and the Dynamics of Civil War.” Paper presented at the International Studies Association’s Annual Meeting, Montréal, March 16-19.
 
 ### Teaching experience   
 
