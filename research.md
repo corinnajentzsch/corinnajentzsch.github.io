@@ -10,7 +10,7 @@ banner: "![Nampula City](/assets/media/nampula-square.jpg)"
 
 I study civil wars and the emergence of informal institutions of security governance. Under what conditions does civil war violence create new informal security institutions that challenge the state monopoly of force? What types of order emerge and why? What are the consequences of new informal institutions of security governance for violence during and beyond civil war? This research lies at the intersection of international relations, comparative politics, and political sociology. I strive for an interdisciplinary approach and combine theoretical perspectives and methodological approaches from political science, sociology, history, and anthropology. I put particular emphasis on in-depth fieldwork and combine qualitative with quantitative research methods.
 
-### Dissertation: Militias and the Dynamics of Civil Wars
+### Dissertation: [Militias and the Dynamics of Civil Wars](http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&res_dat=xri:pqdiss&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&rft_dat=xri:pqdiss:3582228 "Militias and the Dynamics of Civil Wars")
 
 Civil war, violence and insecurity give rise to a variety of new forms of order. In my dissertation, I focus on a particular form of order in civil wars: the mobilization of community residents into militias that exist outside of the formal security apparatus of the state to resist wartime violence. Few studies have studied militias systematically, and thus my dissertation builds the foundation for a new research agenda on “third” actors in civil wars. I develop a theory to explain the timing and location of militia formation, and militia’s mobilization process to recruit new members. The theory takes into account the strategic, institutional, and cultural context that shape people’s future expectations of violence and thus their inclination to form militias. I evaluate the theory using qualitative and quantitative evidence from over 250 oral histories and semi-structured interviews and more than 10,000 pages of government documents collected during one year of fieldwork in Mozambique.
 
@@ -18,10 +18,10 @@ Civil war, violence and insecurity give rise to a variety of new forms of order.
 
 _Peer-reviewed_    
 2015      
-Co-editor, [Special Issue on “Militias in Civil Wars”](http://jcr.sagepub.com/content/59/5.toc) in _Journal of Conflict Resolution_ (together with Stathis N. Kalyvas and Livia I. Schubiger).    
+Co-editor, [Special Issue on “Militias in Civil Wars”](http://jcr.sagepub.com/content/59/5.toc "Militias in Civil Wars") in _Journal of Conflict Resolution_ (together with Stathis N. Kalyvas and Livia I. Schubiger).    
  
 2015     
-[“Militias in Civil Wars.”](http://jcr.sagepub.com/content/59/5/755) _Journal of Conflict Resolution_ (together with Stathis N. Kalyvas and Livia I. Schubiger)    
+[“Militias in Civil Wars.”](http://jcr.sagepub.com/content/59/5/755 "Militias in Civil Wars") _Journal of Conflict Resolution_ (together with Stathis N. Kalyvas and Livia I. Schubiger)    
  
 2014     
 [“Opportunities and Challenges to the Financing of African Union Peace Operations.”](http://www.jstor.org/stable/10.2979/africonfpeacrevi.4.2.86 "Financing of African Union Peace Operations") _African Conflict and Peacebuilding Review_ 4(2): 86-107.
