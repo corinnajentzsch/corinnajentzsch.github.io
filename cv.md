@@ -122,5 +122,5 @@ Teaching Assistant
 Mozambique (12 months), Malawi (3 months), Zambia (2 months)
 
 ### Skills and proficiencies
-Languages: German (native), English (fluent), Portuguese (advanced), French (advanced), Kiswahili (intermediate)    
+Languages: German (native), English (fluent), Portuguese (advanced), French (advanced), Kiswahili (intermediate), Dutch (intermediate)    
 Software: Microsoft Office, STATA, TAMS Analyzer (Qualitative Analysis Software), ArcGIS, Adobe InDesign
