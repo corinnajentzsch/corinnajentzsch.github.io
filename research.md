@@ -5,6 +5,7 @@ published: true
 banner: "![Nampula City](/assets/media/nampula-square.jpg)"
 ---
 
+
 ## Research
 
 I study civil wars and the emergence of informal institutions of security governance. Under what conditions does civil war violence create new informal security institutions that challenge the state monopoly of force? What types of order emerge and why? What are the consequences of new informal institutions of security governance for violence during and beyond civil war? This research lies at the intersection of international relations, comparative politics, and political sociology. I strive for an interdisciplinary approach and combine theoretical perspectives and methodological approaches from political science, sociology, history, and anthropology. I put particular emphasis on in-depth fieldwork and combine qualitative with quantitative research methods.
@@ -17,10 +18,10 @@ Civil war, violence and insecurity give rise to a variety of new forms of order.
 
 _Peer-reviewed_    
 2015      
-Co-editor, Special Issue on “Militias in Civil Wars” in _Journal of Conflict Resolution_ (together with Stathis N. Kalyvas and Livia I. Schubiger).    
+Co-editor, [Special Issue on “Militias in Civil Wars”](http://jcr.sagepub.com/content/59/5.toc) in _Journal of Conflict Resolution_ (together with Stathis N. Kalyvas and Livia I. Schubiger).    
  
 2015     
-[“Militias in Civil Wars.”](http://jcr.sagepub.com/content/early/2015/04/06/0022002715576753.abstract) _Journal of Conflict Resolution_ (together with Stathis N. Kalyvas and Livia I. Schubiger)    
+[“Militias in Civil Wars.”](http://jcr.sagepub.com/content/59/5/755) _Journal of Conflict Resolution_ (together with Stathis N. Kalyvas and Livia I. Schubiger)    
  
 2014     
 [“Opportunities and Challenges to the Financing of African Union Peace Operations.”](http://www.jstor.org/stable/10.2979/africonfpeacrevi.4.2.86 "Financing of African Union Peace Operations") _African Conflict and Peacebuilding Review_ 4(2): 86-107.
