@@ -5,6 +5,7 @@ published: true
 banner: "![Lugela, Zambezia](/assets/media/lugela-btr.jpg)"
 ---
 
+
 ## CV 
 
 You can download a complete version of my CV [here](https://dl.dropboxusercontent.com/u/8807102/Jentzsch_CV.pdf "Jentzsch CV").
@@ -52,10 +53,10 @@ Scholarship from the German National Academic Foundation
 
 _Peer-reviewed_    
 2015      
-Co-editor, Special Issue on “Militias in Civil Wars” in _Journal of Conflict Resolution_ (together with Stathis N. Kalyvas and Livia I. Schubiger).    
-
+Co-editor, [Special Issue on “Militias in Civil Wars”](http://jcr.sagepub.com/content/59/5.toc "Militias in Civil Wars") in _Journal of Conflict Resolution_ (together with Stathis N. Kalyvas and Livia I. Schubiger).    
+ 
 2015     
-[“Militias in Civil Wars.”](http://jcr.sagepub.com/content/early/2015/04/06/0022002715576753.abstract) _Journal of Conflict Resolution_ (together with Stathis N. Kalyvas and Livia I. Schubiger).   
+[“Militias in Civil Wars.”](http://jcr.sagepub.com/content/59/5/755 "Militias in Civil Wars") _Journal of Conflict Resolution_ (together with Stathis N. Kalyvas and Livia I. Schubiger)   
 
 2014
 [“Opportunities and Challenges to the Financing of African Union Peace Operations.”](http://www.jstor.org/stable/10.2979/africonfpeacrevi.4.2.86 "Financing of African Union Peace Operations") _African Conflict and Peacebuilding Review_ 4(2): 86-107.
