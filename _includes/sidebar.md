@@ -1,8 +1,12 @@
+---
+published: false
+---
+
 #### Contact
 
 Corinna Jentzsch  
 Institute of Political Science   
-Pieter de la Court Building    
+Pieter de la Court Gebouw    
 Leiden University    
 Wassenaarseweg 52     
 2333 AK Leiden    
@@ -14,7 +18,9 @@ twitter [@coboje](https://twitter.com/coboje)
 
 #### Links
 
+* [Leiden University Profile Page](http://socialsciences.leiden.edu/politicalscience/organisation/faculty/jentzsch.html "Corinna Jentzsch")
 * [Institute of Political Science at Leiden University](http://www.socialsciences.leiden.edu/politicalscience/ "Institute of Political Science at Leiden University")
 * [Department of Political Science at Yale University](http://politicalscience.yale.edu/ "Department of Political Science at Yale University")
 * [Program on Order, Conflict, and Violence at Yale University](http://www.yale.edu/macmillan/ocvprogram/ "OCV")
 * [Africa is a Country](http://africasacountry.com/ "AIAC")
+* [Twitter](https://twitter.com/coboje "coboje")
