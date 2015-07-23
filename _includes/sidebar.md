@@ -2,6 +2,7 @@
 published: false
 ---
 
+
 #### Contact
 
 Corinna Jentzsch  
@@ -23,4 +24,3 @@ twitter [@coboje](https://twitter.com/coboje)
 * [Department of Political Science at Yale University](http://politicalscience.yale.edu/ "Department of Political Science at Yale University")
 * [Program on Order, Conflict, and Violence at Yale University](http://www.yale.edu/macmillan/ocvprogram/ "OCV")
 * [Africa is a Country](http://africasacountry.com/ "AIAC")
-* [Twitter](https://twitter.com/coboje "coboje")
