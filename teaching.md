@@ -5,6 +5,7 @@ published: true
 banner: "![Gurué, Zambézia](/assets/media/gurue-street.jpg)"
 ---
 
+
 ## Teaching
 
 In teaching international relations and comparative politics, my goal is to nurture my students’ ability to critically engage with political events, become knowledgeable observers of political processes, and active participants in these processes as informed citizens.
@@ -14,8 +15,10 @@ In teaching international relations and comparative politics, my goal is to nurt
 ####Leiden University     
 Instructor   
 
+> M.A. Thesis Seminar, International Organization, Spring 2016
+> M.A. Seminar, International Relations: Theory and Approaches, Fall 2015    
 > M.A. Seminar, Post-Conflict Politics, Spring 2015   
-> M.A. Seminar, Civil Wars, Spring 2015   
+> M.A. Seminar, Civil Wars, Spring 2015/Spring 2016   
 > M.A. Thesis Seminar, Diversity, Democracy and Conflict, Fall 2014   
 
 ####Yale University	   
