@@ -7,6 +7,7 @@ banner: "![Lugela, Zambezia](/assets/media/lugela-btr.jpg)"
 
 
 
+
 ## CV 
 
 You can download a short version of my CV [here](https://dl.dropboxusercontent.com/u/8807102/Jentzsch_CV.pdf "Jentzsch CV").
@@ -97,7 +98,7 @@ _Other_
 ####Leiden University     
 Instructor   
 
-> M.A. Thesis Seminar, International Organization, Spring 2016
+> M.A. Thesis Seminar, International Organization, Spring 2016     
 > M.A. Seminar, International Relations: Theory and Approaches, Fall 2015    
 > M.A. Seminar, Post-Conflict Politics, Spring 2015   
 > M.A. Seminar, Civil Wars, Spring 2015/Spring 2016   
