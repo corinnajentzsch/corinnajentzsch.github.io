@@ -1,8 +1,3 @@
----
-published: true
----
-
-
 #### Contact
 
 Corinna Jentzsch  
