@@ -31,7 +31,7 @@ Co-editor, [Special Issue on “Militias in Civil Wars”](http://jcr.sagepub.co
 2014    
 ["The Financing of International Peace Operations in Africa: A Review of Recent Research and Analyses."](webarchive.ssrc.org/working-papers/APN_WorkingPapers01_Jentzsch.pdf "APN WorkingPapers 01 Jentzsch") _APN Working Papers No. 1_, SSRC African Peacebuilding Network.   
 
-_Other_    
+_Other (selection)_    
 2015   
 ["Who’s fighting the Islamic State? Five things you need to know about militias in civil wars."](https://www.washingtonpost.com/blogs/monkey-cage/wp/2015/09/21/whos-that-fighting-the-islamic-state-five-things-you-need-to-know-about-militias-in-civil-wars/ "Militias in Civil Wars") _The Washington Post Monkey Cage Blog_, September 21 (together with Stathis N. Kalyvas and Livia I. Schubiger).   
 
