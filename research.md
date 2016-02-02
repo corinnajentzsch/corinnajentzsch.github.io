@@ -35,13 +35,13 @@ _Other_
 2015   
 ["Who’s fighting the Islamic State? Five things you need to know about militias in civil wars."](https://www.washingtonpost.com/blogs/monkey-cage/wp/2015/09/21/whos-that-fighting-the-islamic-state-five-things-you-need-to-know-about-militias-in-civil-wars/ "Militias in Civil Wars") _The Washington Post Monkey Cage Blog_, September 21 (together with Stathis N. Kalyvas and Livia I. Schubiger).   
 
-2015.    
+2015    
 ["A Luta Continua: A triumph for press freedom in Mozambique."](http://africasacountry.com/2015/09/a-luta-continua-a-triumph-for-press-freedom-in-mozambique/ "A Luta Continua") _Africa Is A Country_, September 24.
 
-2014.    
+2014    
 ["How Frelimo rehabilitated Renamo in time for Mozambique’s Elections."](http://africasacountry.com/2014/11/how-frelimo-rehabilitated-renamo-in-time-for-mozambiques-elections/ "Mozambique's Elections") _Africa Is A Country_, November 5.
 
-2013.     
+2013     
 ["Mozambique: How serious is Renamo’s pro-war rhetoric?"](http://africasacountry.com/2013/10/mozambique-how-serious-is-renamos-pro-war-rhetoric/ "Renamo's pro-war rhetoric") _Africa Is A Country_, October 25.
 
 2008   
