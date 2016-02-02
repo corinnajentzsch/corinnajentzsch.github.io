@@ -8,9 +8,16 @@ banner: "![Nampula City](/assets/media/nampula-square.jpg)"
 
 
 
+
 ## Research
 
 I study civil wars and the emergence of informal institutions of security governance. Under what conditions does civil war violence create new informal security institutions that challenge the state monopoly of force? What types of order emerge and why? What are the consequences of new informal institutions of security governance for violence during and beyond civil war? This research lies at the intersection of international relations, comparative politics, and political sociology. I strive for an interdisciplinary approach and combine theoretical perspectives and methodological approaches from political science, sociology, history, and anthropology. I put particular emphasis on in-depth fieldwork and combine qualitative with quantitative research methods.
+
+### Current Project: [The Evolution of Violence During Mozambique's Civil War (1976-1992)](http://iprafoundation.org/corinna-jentzsch/ "The Evolution of Violence")
+
+Although the civil war in Mozambique (1976-1992) had important geopolitical implications and severe humanitarian consequences, its systematic study is relatively limited in comparison to other armed conflicts. One reason is the dearth of available data, in particular on the subnational level. Cutting-edge research of civil wars, however, requires fine-grained subnational data to uncover the microfoundations of insurgent mobilization, violence against civilians, rebel governance, and displacement. This project makes use of the author’s unique collection of primary documents from Mozambican archives to create a dataset of violent events during the Mozambican civil war to facilitate systematic analysis of variation in wartime violence across space and time. The project contributes to our understanding of the local dynamics of war in Mozambique and the causes and consequences of political violence more generally.
+
+Funded by the [International Peace Research Association Foundation](http://iprafoundation.org/ "IPRAF")
 
 ### Dissertation: [Militias and the Dynamics of Civil Wars](http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&res_dat=xri:pqdiss&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&rft_dat=xri:pqdiss:3582228 "Militias and the Dynamics of Civil Wars")
 
