@@ -7,6 +7,7 @@ banner: "![Nampula City](/assets/media/nampula-square.jpg)"
 
 
 
+
 ## Research
 
 I study civil wars and the emergence of informal institutions of security governance. Under what conditions does civil war violence create new informal security institutions that challenge the state monopoly of force? What types of order emerge and why? What are the consequences of new informal institutions of security governance for violence during and beyond civil war? This research lies at the intersection of international relations, comparative politics, and political sociology. I strive for an interdisciplinary approach and combine theoretical perspectives and methodological approaches from political science, sociology, history, and anthropology. I put particular emphasis on in-depth fieldwork and combine qualitative with quantitative research methods.
@@ -32,7 +33,16 @@ Co-editor, [Special Issue on “Militias in Civil Wars”](http://jcr.sagepub.co
 
 _Other_    
 2015   
-["Who’s fighting the Islamic State? Five things you need to know about militias in civil wars."](https://www.washingtonpost.com/blogs/monkey-cage/wp/2015/09/21/whos-that-fighting-the-islamic-state-five-things-you-need-to-know-about-militias-in-civil-wars/ "Militias in Civil Wars") _The Washington Post Monkey Cage Blog_, September 21 (together with Stathis N. Kalyvas and Livia I. Schubiger).    
+["Who’s fighting the Islamic State? Five things you need to know about militias in civil wars."](https://www.washingtonpost.com/blogs/monkey-cage/wp/2015/09/21/whos-that-fighting-the-islamic-state-five-things-you-need-to-know-about-militias-in-civil-wars/ "Militias in Civil Wars") _The Washington Post Monkey Cage Blog_, September 21 (together with Stathis N. Kalyvas and Livia I. Schubiger).   
+
+2015.    
+["A Luta Continua: A triumph for press freedom in Mozambique."](http://africasacountry.com/2015/09/a-luta-continua-a-triumph-for-press-freedom-in-mozambique/ "A Luta Continua") _Africa Is A Country_, September 24.
+
+2014.    
+["How Frelimo rehabilitated Renamo in time for Mozambique’s Elections."](http://africasacountry.com/2014/11/how-frelimo-rehabilitated-renamo-in-time-for-mozambiques-elections/ "Mozambique's Elections") _Africa Is A Country_, November 5.
+
+2013.     
+["Mozambique: How serious is Renamo’s pro-war rhetoric?"](http://africasacountry.com/2013/10/mozambique-how-serious-is-renamos-pro-war-rhetoric/ "Renamo's pro-war rhetoric") _Africa Is A Country_, October 25.
 
 2008   
 “Governance Without Government—Politische Ordnung im Osten der DR Kongo” [Political Order in Eastern DR Congo]. In _Ordnungen im Wandel. Globale und lokale Wirklichkeiten im Spiegel transdisziplinärer Analysen_, eds. Friedrich Arndt, Carmen Dege, Christian Ellermann, Maximilian Mayer, David Teller, Lisbeth Zimmermann, Bielefeld: transcript.
