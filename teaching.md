@@ -13,7 +13,8 @@ In teaching international relations and comparative politics, my goal is to nurt
 
 ### Teaching Experience
 
-####Leiden University     
+#### Leiden University
+
 Instructor   
 
 > M.A. Thesis Seminar, International Organization, Spring 2016     
@@ -22,7 +23,8 @@ Instructor
 > M.A. Seminar, Civil Wars, Spring 2015/Spring 2016   
 > M.A. Thesis Seminar, Diversity, Democracy and Conflict, Fall 2014   
 
-####Yale University	   
+#### Yale University
+
 Teacher Training    
 
 > Yale University Certificate of College Teaching Preparation, Spring 2013   
@@ -31,7 +33,8 @@ Teaching Fellow and Guest Lecturer
 
 > Department of Political Science, 2009—2011, 2013    
 
-####Free University Berlin, Germany    
+#### Free University Berlin, Germany
+
 Teaching Assistant    
 
 > Department of Political Science, 2006
