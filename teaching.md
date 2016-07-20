@@ -2,7 +2,7 @@
 layout: default
 title: Teaching
 published: true
-banner: "![Gurué, Zambézia](/assets/media/gurue-street.jpg)"
+banner: '![Gurué, Zambézia](/assets/media/gurue-street.jpg)'
 ---
 
 
@@ -18,7 +18,7 @@ In teaching international relations and comparative politics, my goal is to nurt
 Instructor   
 
 > M.A. Thesis Seminar, International Organization, Spring 2016     
-> M.A. Seminar, International Relations: Theory and Approaches, Fall 2015    
+> M.A. Seminar, International Relations: Theory and Approaches, Fall 2015/Fall 2016   
 > M.A. Seminar, Post-Conflict Politics, Spring 2015   
 > M.A. Seminar, Civil Wars, Spring 2015/Spring 2016   
 > M.A. Thesis Seminar, Diversity, Democracy and Conflict, Fall 2014   
