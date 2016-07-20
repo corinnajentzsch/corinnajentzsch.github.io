@@ -1,3 +1,6 @@
+---
+published: false
+---
 #### Contact
 
 Corinna Jentzsch  
@@ -20,3 +23,4 @@ twitter [@coboje](https://twitter.com/coboje)
 * [Program on Order, Conflict, and Violence at Yale University](http://www.yale.edu/macmillan/ocvprogram/ "OCV")
 * [Africa is a Country](http://africasacountry.com/ "AIAC")
 * [#WomenAlsoKnowStuff](http://womenalsoknowstuff.com/ "Women")
+* [Plural Security Insights](http://pluralsecurityinsights.org/)
