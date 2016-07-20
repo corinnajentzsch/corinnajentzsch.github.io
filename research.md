@@ -15,7 +15,8 @@ I study civil wars and the emergence of informal institutions of security govern
 
 ### Work in Progress    
 
-####State-Militia Collaboration and Political Order in Civil War     
+#### State-Militia Collaboration and Political Order in Civil War
+
 NWO Veni Project funded by the [The Netherlands Organisation for Scientific Research](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme/awards/veni+awards/veni+awards+2016 "NWO") 
 
 Governments in Syria, Iraq, Afghanistan and Sudan have mobilized militias to defend the
@@ -30,14 +31,15 @@ contexts such as Iraq and Afghanistan. The findings will provide insights into h
 can be made more accountable to the state and the local population and less susceptible
 to co-optation by violent entrepreneurs.
 
-####[The Evolution of Violence During Mozambique's Civil War (1976-1992)](http://iprafoundation.org/corinna-jentzsch/ "The Evolution of Violence")       
+#### [The Evolution of Violence During Mozambique's Civil War (1976-1992)](http://iprafoundation.org/corinna-jentzsch/ "The Evolution of Violence")
+
 Funded by the [International Peace Research Association Foundation](http://iprafoundation.org/ "IPRAF")
 
 Although the civil war in Mozambique (1976-1992) had important geopolitical implications and severe humanitarian consequences, its systematic study is relatively limited in comparison to other armed conflicts. One reason is the dearth of available data, in particular on the subnational level. Cutting-edge research of civil wars, however, requires fine-grained subnational data to uncover the microfoundations of insurgent mobilization, violence against civilians, rebel governance, and displacement. This project makes use of the author’s unique collection of primary documents from Mozambican archives to create a dataset of violent events during the Mozambican civil war to facilitate systematic analysis of variation in wartime violence across space and time. The project contributes to our understanding of the local dynamics of war in Mozambique and the causes and consequences of political violence more generally.
 
 ### Dissertation          
 
-####[Militias and the Dynamics of Civil Wars](http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&res_dat=xri:pqdiss&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&rft_dat=xri:pqdiss:3582228 "Militias and the Dynamics of Civil Wars")
+#### [Militias and the Dynamics of Civil Wars](http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&res_dat=xri:pqdiss&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&rft_dat=xri:pqdiss:3582228 "Militias and the Dynamics of Civil Wars")
 
 Civil war, violence and insecurity give rise to a variety of new forms of order. In my dissertation, I focus on a particular form of order in civil wars: the mobilization of community residents into militias that exist outside of the formal security apparatus of the state to resist wartime violence. Few studies have studied militias systematically, and thus my dissertation builds the foundation for a new research agenda on “third” actors in civil wars. I develop a theory to explain the timing and location of militia formation, and militia’s mobilization process to recruit new members. The theory takes into account the strategic, institutional, and cultural context that shape people’s future expectations of violence and thus their inclination to form militias. I evaluate the theory using qualitative and quantitative evidence from over 250 oral histories and semi-structured interviews and more than 10,000 pages of government documents collected during one year of fieldwork in Mozambique.
 
