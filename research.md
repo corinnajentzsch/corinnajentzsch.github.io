@@ -2,7 +2,7 @@
 layout: default
 title: Research
 published: true
-banner: "![Nampula City](/assets/media/nampula-square.jpg)"
+banner: '![Nampula City](/assets/media/nampula-square.jpg)'
 ---
 
 
@@ -13,15 +13,29 @@ banner: "![Nampula City](/assets/media/nampula-square.jpg)"
 
 I study civil wars and the emergence of informal institutions of security governance. Under what conditions does civil war violence create new informal security institutions that challenge the state monopoly of force? What types of order emerge and why? What are the consequences of new informal institutions of security governance for violence during and beyond civil war? This research lies at the intersection of international relations, comparative politics, and political sociology. I strive for an interdisciplinary approach and combine theoretical perspectives and methodological approaches from political science, sociology, history, and anthropology. I put particular emphasis on in-depth fieldwork and combine qualitative with quantitative research methods.
 
-### Work in Progress      
+### Work in Progress    
 
-[The Evolution of Violence During Mozambique's Civil War (1976-1992)](http://iprafoundation.org/corinna-jentzsch/ "The Evolution of Violence")
+State-Militia Collaboration and Political Order in Civil War     
+NWO Veni Project funded by the [The Netherlands Organisation for Scientific Research](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme/awards/veni+awards/veni+awards+2016 "NWO") 
+
+Governments in Syria, Iraq, Afghanistan and Sudan have mobilized militias to defend the
+state and the local population against armed rebellion. The empowerment of such progovernment armed groups has varying consequences for security and political order in
+conflict-ridden states. Recent headlines like “Afghan Militia Leaders, Empowered by U.S. to Fight Taliban, Inspire Fear in Villages” (Goldstein 2015), “Power Failure in Iraq as Militias Outgun State” (Parker 2015), and “Chaos Grows in Darfur Conflict as Militias Turn on Government” (Lacey 2005) support the notion that empowering militias leads to disastrous outcomes. But contrary to what such war reports suggest, the disruption of political order and security by militias is not inevitable. In civil wars in Mozambique, Peru and even
+Afghanistan, many militias neither mounted a serious challenge to state power, nor
+threatened the population. Instead, they allowed the state to restore order and security.
+Under what conditions does state-militia collaboration sustain or disrupt political order?
+More specifically, under what conditions do militias target state institutions and the local population or refrain from doing so? This project develops a new theory of the impact of state–militia collaboration on political order—the extent to which militias exercise state functions and perpetrate violence against the local population. It analyzes subnational variation of state–militia collaboration during the Mozambican civil war for the purpose of theory development and tests implications for the macro-level in a cross-national analysis of state–militia collaboration in recent African civil wars. By elucidating the ambivalent effects of state–militia collaboration in civil war, the
+research seeks to critically interrogate the assumptions informing current policy in
+contexts such as Iraq and Afghanistan. The findings will provide insights into how militias
+can be made more accountable to the state and the local population and less susceptible
+to co-optation by violent entrepreneurs.
+
+[The Evolution of Violence During Mozambique's Civil War (1976-1992)](http://iprafoundation.org/corinna-jentzsch/ "The Evolution of Violence")       
+Funded by the [International Peace Research Association Foundation](http://iprafoundation.org/ "IPRAF")
 
 Although the civil war in Mozambique (1976-1992) had important geopolitical implications and severe humanitarian consequences, its systematic study is relatively limited in comparison to other armed conflicts. One reason is the dearth of available data, in particular on the subnational level. Cutting-edge research of civil wars, however, requires fine-grained subnational data to uncover the microfoundations of insurgent mobilization, violence against civilians, rebel governance, and displacement. This project makes use of the author’s unique collection of primary documents from Mozambican archives to create a dataset of violent events during the Mozambican civil war to facilitate systematic analysis of variation in wartime violence across space and time. The project contributes to our understanding of the local dynamics of war in Mozambique and the causes and consequences of political violence more generally.
 
-Funded by the [International Peace Research Association Foundation](http://iprafoundation.org/ "IPRAF")
-
-### Dissertation     
+### Dissertation          
 
 [Militias and the Dynamics of Civil Wars](http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&res_dat=xri:pqdiss&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&rft_dat=xri:pqdiss:3582228 "Militias and the Dynamics of Civil Wars")
 
@@ -43,6 +57,9 @@ Co-editor, [Special Issue on “Militias in Civil Wars”](http://jcr.sagepub.co
 ["The Financing of International Peace Operations in Africa: A Review of Recent Research and Analyses."](webarchive.ssrc.org/working-papers/APN_WorkingPapers01_Jentzsch.pdf "APN WorkingPapers 01 Jentzsch") _APN Working Papers No. 1_, SSRC African Peacebuilding Network.   
 
 _Other (selection)_    
+2016     
+["L’offre plurielle de sécurité dans le Grand Tunis. Quelles alternatives à l’État pour combler le « vide » sécuritaire?"](http://pluralsecurityinsights.org/wp-content/uploads/2016/07/160707_PSI_Policy-brief_Tunis.pdf) _Plural Security Insights Policy Brief_, Clingendael Conflict Research Unit, July (together with Hatem Kahloun and Souhaïl Belhadj)     
+
 2015   
 ["Who’s fighting the Islamic State? Five things you need to know about militias in civil wars."](https://www.washingtonpost.com/blogs/monkey-cage/wp/2015/09/21/whos-that-fighting-the-islamic-state-five-things-you-need-to-know-about-militias-in-civil-wars/ "Militias in Civil Wars") _The Washington Post Monkey Cage Blog_, September 21 (together with Stathis N. Kalyvas and Livia I. Schubiger).   
 
