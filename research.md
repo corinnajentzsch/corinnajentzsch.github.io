@@ -37,7 +37,7 @@ Funded by the [International Peace Research Association Foundation](http://ipraf
 
 Although the civil war in Mozambique (1976-1992) had important geopolitical implications and severe humanitarian consequences, its systematic study is relatively limited in comparison to other armed conflicts. One reason is the dearth of available data, in particular on the subnational level. Cutting-edge research of civil wars, however, requires fine-grained subnational data to uncover the microfoundations of insurgent mobilization, violence against civilians, rebel governance, and displacement. This project makes use of the author’s unique collection of primary documents from Mozambican archives to create a dataset of violent events during the Mozambican civil war to facilitate systematic analysis of variation in wartime violence across space and time. The project contributes to our understanding of the local dynamics of war in Mozambique and the causes and consequences of political violence more generally.
 
-### Dissertation          
+### Dissertation and book project          
 
 #### [Militias and the Dynamics of Civil Wars](http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&res_dat=xri:pqdiss&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&rft_dat=xri:pqdiss:3582228 "Militias and the Dynamics of Civil Wars")
 
@@ -46,6 +46,12 @@ Civil war, violence and insecurity give rise to a variety of new forms of order.
 ### Publications
 
 _Peer-reviewed_    
+Forthcoming      
+“Auxiliary Armed Forces and Innovations in Security Governance in Mozambique’s Civil War.” Contribution to special issue “Armed Groups and Multilayered Governance”, edited by Nelson Kasfir, Georg Frerks, and Niels Terpstra in _Civil Wars_.      
+
+Forthcoming      
+“Intervention, Autonomy and Power in Polarised Societies.” Contribution to edited volume, Brendan Browne and Althea Rivas (eds.), [Experiences in Researching Conflict & Violence: Fieldwork Interrupted](https://policypress.co.uk/experiences-in-researching-conflict-and-violence). Bristol: Policy Press.
+
 2015      
 Co-editor, [Special Issue on “Militias in Civil Wars”](http://jcr.sagepub.com/content/59/5.toc "Militias in Civil Wars") in _Journal of Conflict Resolution_ 59(5) (together with Stathis N. Kalyvas and Livia I. Schubiger).    
  
@@ -59,8 +65,20 @@ Co-editor, [Special Issue on “Militias in Civil Wars”](http://jcr.sagepub.co
 ["The Financing of International Peace Operations in Africa: A Review of Recent Research and Analyses."](webarchive.ssrc.org/working-papers/APN_WorkingPapers01_Jentzsch.pdf "APN WorkingPapers 01 Jentzsch") _APN Working Papers No. 1_, SSRC African Peacebuilding Network.   
 
 _Other (selection)_    
+Forthcoming    
+“Spiritual Power and the Dynamics of War in the Provinces of Nampula and Zambézia.” Contribution to edited volume, Cahen, Michel, Eric Morier-Genoud, and Domingos do Rosário (eds.), [The War Within: New Perspectives on the Civil War in Mozambique, 1976-1992](https://boydellandbrewer.com/the-war-within-hb.html). Suffolk: James Currey.
+
+2017    
+[“Is environmental philanthropy still a white man’s game?.”](http://africasacountry.com/2017/09/is-environmental-philanthropy-still-a-white-mans-game/) _Africa Is A Country_, September 25.
+
 2016     
 ["L’offre plurielle de sécurité dans le Grand Tunis. Quelles alternatives à l’État pour combler le « vide » sécuritaire?"](http://pluralsecurityinsights.org/wp-content/uploads/2016/07/160707_PSI_Policy-brief_Tunis.pdf) _Plural Security Insights Policy Brief_, Clingendael Conflict Research Unit, July (together with Hatem Kahloun and Souhaïl Belhadj)     
+
+2016    
+[“Falta de diálogo em Moçambique acentua polarização” (The lack of dialogue in Mozambique underlines polarization)](http://www.dw.com/pt/falta-de-di%C3%A1logo-em-mo%C3%A7ambique-acentua-polariza%C3%A7%C3%A3o/a-19083472)), Interview with Deutsche Welle Africa (Portuguese Service), February 29.
+
+2016    
+[“Here are 4 reasons why Mozambique isn’t a post-war success story.”](https://www.washingtonpost.com/news/monkey-cage/wp/2016/02/02/here-are-four-reasons-why-we-should-question-mozambiques-post-conflict-success-story-narrative/) _The Washington Post Monkey Cage Blog_, February 2.
 
 2015   
 ["Who’s fighting the Islamic State? Five things you need to know about militias in civil wars."](https://www.washingtonpost.com/blogs/monkey-cage/wp/2015/09/21/whos-that-fighting-the-islamic-state-five-things-you-need-to-know-about-militias-in-civil-wars/ "Militias in Civil Wars") _The Washington Post Monkey Cage Blog_, September 21 (together with Stathis N. Kalyvas and Livia I. Schubiger).   
