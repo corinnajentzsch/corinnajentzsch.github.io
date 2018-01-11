@@ -8,9 +8,12 @@ Wassenaarseweg 52
 2333 AK Leiden    
 The Netherlands     
 
-email <c.jentzsch@fsw.leidenuniv.nl>  
-web www.corinnajentzsch.com  
-twitter [@coboje](https://twitter.com/coboje)  
+email 
+: <c.jentzsch@fsw.leidenuniv.nl>  
+web 
+: www.corinnajentzsch.com  
+twitter 
+: [@coboje](https://twitter.com/coboje)  
 
 #### Links
 
