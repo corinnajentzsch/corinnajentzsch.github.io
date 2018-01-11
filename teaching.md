@@ -17,8 +17,8 @@ In teaching international relations and comparative politics, my goal is to nurt
 
 Instructor   
 
-> M.A. Thesis Lab, Spring 2017
-> B.A. Seminar Social Movements and Political Violence, Fall 2016
+> M.A. Thesis Lab, Spring 2017  
+> B.A. Seminar Social Movements and Political Violence, Fall 2016  
 > M.A. Thesis Seminar, International Organization, Spring 2016     
 > M.A. Seminar, International Relations: Theory and Approaches, Fall 2015/Fall 2016   
 > M.A. Seminar, Post-Conflict Politics, Spring 2015   
