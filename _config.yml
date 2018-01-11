@@ -1,6 +1,6 @@
 safe: true
 permalink: pretty
-baseurl: /
+#baseurl: /
 markdown: kramdown
 
 kramdown: 
