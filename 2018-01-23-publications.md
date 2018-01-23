@@ -9,7 +9,7 @@ title: Publications
 
 _Peer-reviewed_    
 2018      
-“Intervention, Autonomy and Power in Polarised Societies.” Contribution to edited volume, Brendan Browne and Althea Rivas (eds.), _[Experiences in Researching Conflict & Violence: Fieldwork Interrupted]_(https://policypress.co.uk/experiences-in-researching-conflict-and-violence). Bristol: Policy Press.
+“Intervention, Autonomy and Power in Polarised Societies.” Contribution to edited volume, Brendan Browne and Althea Rivas (eds.), _[Experiences in Researching Conflict & Violence: Fieldwork Interrupted](https://policypress.co.uk/experiences-in-researching-conflict-and-violence). Bristol: Policy Press.
 
 2017      
 [“Auxiliary Armed Forces and Innovations in Security Governance in Mozambique’s Civil War.”](http://www.tandfonline.com/doi/full/10.1080/13698249.2017.1412752) Contribution to special issue “Armed Groups and Multilayered Governance”, edited by Nelson Kasfir, Georg Frerks, and Niels Terpstra in _Civil Wars_ 19(3): 325-347.      
@@ -56,4 +56,3 @@ Forthcoming
 
 2008   
 “Governance Without Government—Politische Ordnung im Osten der DR Kongo” [Political Order in Eastern DR Congo]. In _Ordnungen im Wandel. Globale und lokale Wirklichkeiten im Spiegel transdisziplinärer Analysen_, eds. Friedrich Arndt, Carmen Dege, Christian Ellermann, Maximilian Mayer, David Teller, Lisbeth Zimmermann, Bielefeld: transcript.
-
