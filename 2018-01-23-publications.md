@@ -9,7 +9,7 @@ title: Publications
 
 _Peer-reviewed_    
 2018      
-“Intervention, Autonomy and Power in Polarised Societies.” Contribution to edited volume, Brendan Browne and Althea Rivas (eds.), _[Experiences in Researching Conflict & Violence: Fieldwork Interrupted](https://policypress.co.uk/experiences-in-researching-conflict-and-violence). Bristol: Policy Press.
+“Intervention, Autonomy and Power in Polarised Societies.” Contribution to edited volume, Brendan Browne and Althea Rivas (eds.), _[Experiences in Researching Conflict & Violence: Fieldwork Interrupted](https://policypress.co.uk/experiences-in-researching-conflict-and-violence)_. Bristol: Policy Press.
 
 2017      
 [“Auxiliary Armed Forces and Innovations in Security Governance in Mozambique’s Civil War.”](http://www.tandfonline.com/doi/full/10.1080/13698249.2017.1412752) Contribution to special issue “Armed Groups and Multilayered Governance”, edited by Nelson Kasfir, Georg Frerks, and Niels Terpstra in _Civil Wars_ 19(3): 325-347.      
@@ -28,7 +28,7 @@ Co-editor, [Special Issue on “Militias in Civil Wars”](http://jcr.sagepub.co
 
 _Other (selection)_    
 Forthcoming    
-“Spiritual Power and the Dynamics of War in the Provinces of Nampula and Zambézia.” Contribution to edited volume, Cahen, Michel, Eric Morier-Genoud, and Domingos do Rosário (eds.), [The War Within: New Perspectives on the Civil War in Mozambique, 1976-1992](https://boydellandbrewer.com/the-war-within-hb.html). Suffolk: James Currey.
+“Spiritual Power and the Dynamics of War in the Provinces of Nampula and Zambézia.” Contribution to edited volume, Cahen, Michel, Eric Morier-Genoud, and Domingos do Rosário (eds.), _[The War Within: New Perspectives on the Civil War in Mozambique, 1976-1992](https://boydellandbrewer.com/the-war-within-hb.html)_. Suffolk: James Currey.
 
 2017    
 [“Is environmental philanthropy still a white man’s game?.”](http://africasacountry.com/2017/09/is-environmental-philanthropy-still-a-white-mans-game/) _Africa Is A Country_, September 25.
