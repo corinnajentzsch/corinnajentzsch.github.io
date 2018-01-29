@@ -1,6 +1,6 @@
 ---
-banner: '![Alt Text](/assets/media/image-name.jpg)'
-published: false
+banner: '![Nampula City](/assets/media/nampula-square.jpg)'
+published: true
 title: Publications
 ---
 
@@ -37,7 +37,7 @@ Forthcoming
 ["L’offre plurielle de sécurité dans le Grand Tunis. Quelles alternatives à l’État pour combler le « vide » sécuritaire?"](http://pluralsecurityinsights.org/wp-content/uploads/2016/07/160707_PSI_Policy-brief_Tunis.pdf) _Plural Security Insights Policy Brief_, Clingendael Conflict Research Unit, July (together with Hatem Kahloun and Souhaïl Belhadj)     
 
 2016    
-[“Falta de diálogo em Moçambique acentua polarização” (The lack of dialogue in Mozambique underlines polarization)](http://www.dw.com/pt/falta-de-di%C3%A1logo-em-mo%C3%A7ambique-acentua-polariza%C3%A7%C3%A3o/a-19083472)), Interview with Deutsche Welle Africa (Portuguese Service), February 29.
+[“Falta de diálogo em Moçambique acentua polarização” (The lack of dialogue in Mozambique underlines polarization)](http://www.dw.com/pt/falta-de-di%C3%A1logo-em-mo%C3%A7ambique-acentua-polariza%C3%A7%C3%A3o/a-19083472), Interview with Deutsche Welle Africa (Portuguese Service), February 29.
 
 2016    
 [“Here are 4 reasons why Mozambique isn’t a post-war success story.”](https://www.washingtonpost.com/news/monkey-cage/wp/2016/02/02/here-are-four-reasons-why-we-should-question-mozambiques-post-conflict-success-story-narrative/) _The Washington Post Monkey Cage Blog_, February 2.
