@@ -1,4 +1,5 @@
 ---
+layout: default
 banner: '![Nampula City](/assets/media/nampula-square.jpg)'
 published: true
 title: Publications
