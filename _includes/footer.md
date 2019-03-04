@@ -1,1 +1,1 @@
-&copy; 2013-2018 Corinna Jentzsch.
+&copy; 2013-2019 Corinna Jentzsch.
