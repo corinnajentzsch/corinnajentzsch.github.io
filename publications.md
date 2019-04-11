@@ -28,8 +28,8 @@ Co-editor, [Special Issue on “Militias in Civil Wars”](http://jcr.sagepub.co
 ["The Financing of International Peace Operations in Africa: A Review of Recent Research and Analyses."](webarchive.ssrc.org/working-papers/APN_WorkingPapers01_Jentzsch.pdf "APN WorkingPapers 01 Jentzsch") _APN Working Papers No. 1_, SSRC African Peacebuilding Network.   
 
 _Other (selection)_    
-Forthcoming    
-“Spiritual Power and the Dynamics of War in the Provinces of Nampula and Zambézia.” Contribution to edited volume, Cahen, Michel, Eric Morier-Genoud, and Domingos do Rosário (eds.), _[The War Within: New Perspectives on the Civil War in Mozambique, 1976-1992](https://boydellandbrewer.com/the-war-within-hb.html)_. Suffolk: James Currey.
+2018        
+[“Spiritual Power and the Dynamics of War in the Provinces of Nampula and Zambézia.”](https://openaccess.leidenuniv.nl/bitstream/handle/1887/71201/Jentzsch_2018_T.pdf?sequence=1 "Leiden University Repository Jentzsch 2018 Spiritual Power") Contribution to edited volume, Cahen, Michel, Eric Morier-Genoud, and Domingos do Rosário (eds.), _[The War Within: New Perspectives on the Civil War in Mozambique, 1976-1992](https://boydellandbrewer.com/the-war-within-hb.html)_. Suffolk: James Currey.
 
 2017    
 [“Is environmental philanthropy still a white man’s game?.”](http://africasacountry.com/2017/09/is-environmental-philanthropy-still-a-white-mans-game/) _Africa Is A Country_, September 25.
