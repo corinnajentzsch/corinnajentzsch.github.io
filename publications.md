@@ -10,10 +10,10 @@ title: Publications
 
 _Peer-reviewed_    
 2018      
-“Intervention, Autonomy and Power in Polarised Societies.” Contribution to edited volume, Brendan Browne and Althea Rivas (eds.), _[Experiences in Researching Conflict & Violence: Fieldwork Interrupted](https://policypress.co.uk/experiences-in-researching-conflict-and-violence)_. Bristol: Policy Press.
+[“Intervention, Autonomy and Power in Polarised Societies.”](https://openaccess.leidenuniv.nl/bitstream/handle/1887/71200/Jentzsch_2018_Intervention_autonomy_and_power_in_polarised_societies_T.pdf?sequence=1 "Intervention, Autonomy and Power") Contribution to edited volume, Brendan Browne and Althea Rivas (eds.), _[Experiences in Researching Conflict & Violence: Fieldwork Interrupted](https://policypress.co.uk/experiences-in-researching-conflict-and-violence)_. Bristol: Policy Press.
 
 2017      
-[“Auxiliary Armed Forces and Innovations in Security Governance in Mozambique’s Civil War.”](http://www.tandfonline.com/doi/full/10.1080/13698249.2017.1412752) Contribution to special issue “Armed Groups and Multilayered Governance”, edited by Nelson Kasfir, Georg Frerks, and Niels Terpstra in _Civil Wars_ 19(3): 325-347.      
+[“Auxiliary Armed Forces and Innovations in Security Governance in Mozambique’s Civil War.”](http://www.tandfonline.com/doi/full/10.1080/13698249.2017.1412752 "Auxiliary Armed Forces") Contribution to special issue “Armed Groups and Multilayered Governance”, edited by Nelson Kasfir, Georg Frerks, and Niels Terpstra in _Civil Wars_ 19(3): 325-347.      
 
 2015      
 Co-editor, [Special Issue on “Militias in Civil Wars”](http://jcr.sagepub.com/content/59/5.toc "Militias in Civil Wars") in _Journal of Conflict Resolution_ 59(5) (together with Stathis N. Kalyvas and Livia I. Schubiger).    
