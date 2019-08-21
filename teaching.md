@@ -17,9 +17,9 @@ In teaching international relations and comparative politics, my goal is to nurt
 
 Instructor   
 
-> B.A. Lecture [Global Security](https://www.dropbox.com/s/cjxl442167ars4k/Jentzsch_2019_Syllabus-Global%20Security.pdf?dl=0 "Global Security"), Spring 2019
+> B.A. Lecture [Global Security](https://www.dropbox.com/s/cjxl442167ars4k/Jentzsch_2019_Syllabus-Global%20Security.pdf?dl=0 "Global Security"), Spring 2019       
 > M.A. Thesis Lab, Spring 2017  
-> B.A. Seminar [Social Movements and Political Violence](https://www.dropbox.com/s/0e8eg3uf2e4o8ss/Jentzsch_Syllabus_Social%20Movements%20and%20Political%20Violence_2018.pdf?dl=0 "SMPV"), Fall 2016/Fall 2018 
+> B.A. Seminar [Social Movements and Political Violence (https://www.dropbox.com/s/0e8eg3uf2e4o8ss/Jentzsch_Syllabus_Social%20Movements%20and%20Political%20Violence_2018.pdf?dl=0 "SMPV"), Fall 2016/Fall 2018    
 > M.A. Thesis Seminar, International Organization, Spring 2016     
 > M.A. Seminar, [International Relations: Theory and Approaches](https://www.dropbox.com/s/419bvwkl1p98d1g/Jentzsch_Syllabus_IR%20Theories%20and%20Approaches_2016.pdf?dl=0 "IR"), Fall 2015/Fall 2016   
 > M.A. Seminar, Post-Conflict Politics, Spring 2015   
