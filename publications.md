@@ -38,7 +38,7 @@ _Other (selection)_
 [“Is environmental philanthropy still a white man’s game?.”](http://africasacountry.com/2017/09/is-environmental-philanthropy-still-a-white-mans-game/) _Africa Is A Country_, September 25.
 
 2016     
-["L’offre plurielle de sécurité dans le Grand Tunis. Quelles alternatives à l’État pour combler le « vide » sécuritaire?"](http://pluralsecurityinsights.org/wp-content/uploads/2016/07/160707_PSI_Policy-brief_Tunis.pdf) _Plural Security Insights Policy Brief_, Clingendael Conflict Research Unit, July (together with Hatem Kahloun and Souhaïl Belhadj)     
+["L’offre plurielle de sécurité dans le Grand Tunis. Quelles alternatives à l’État pour combler le « vide » sécuritaire?"](http://pluralsecurityinsights.org/wp-content/uploads/2016/07/160707_PSI_Policy-brief_Tunis.pdf) _Plural Security Insights Policy Brief_, Clingendael Conflict Research Unit, July (together with Hatem Kahloun and Souhaïl Belhadj).     
 
 2016    
 [“Falta de diálogo em Moçambique acentua polarização” (The lack of dialogue in Mozambique underlines polarization)](http://www.dw.com/pt/falta-de-di%C3%A1logo-em-mo%C3%A7ambique-acentua-polariza%C3%A7%C3%A3o/a-19083472), Interview with Deutsche Welle Africa (Portuguese Service), February 29.
