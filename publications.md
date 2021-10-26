@@ -8,6 +8,9 @@ title: Publications
 
 ## Publications
 
+_Book_
+2022. _[Violent Resistance: Militia Formation and Civil War in Mozambique](https://www.cambridge.org/core/books/violent-resistance/9F6785EA6663B77BAA90E8A5FDAC5323 "Violent Resistance")_. Cambridge Studies in Contentious Politics, New York: Cambridge University Press.
+
 _Peer-reviewed_   
 2021. ["RENAMO and Mozambique."](http://doi.org/10.1093/acrefore/9780190277734.013.1028 "RENAMO and Mozambique") Contribution to edited volume, Thomas Spear (ed.), _[Oxford Research Encyclopedia of African History.](https://oxfordre.com/africanhistory "Oxford Research Encyclopedia of African History")_. Oxford: Oxford University Press.        
 
