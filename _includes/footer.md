@@ -1,1 +1,4 @@
-&copy; 2013-2019 Corinna Jentzsch.
+---
+published: false
+---
+&copy; 2013-2021 Corinna Jentzsch.
