@@ -9,7 +9,7 @@ title: Publications
 ## Publications
 
 _Peer-reviewed_   
-2021. ["RENAMO and Mozambique."](http://doi.org/10.1093/acrefore/9780190277734.013.1028 "RENAMO and Mozambique") Contribution to edited volume, Spear T. (ed.), Oxford Research Encyclopedia of African History. Oxford Research Encyclopedia of African History Oxford: Oxford University Press.      
+2021. ["RENAMO and Mozambique."](http://doi.org/10.1093/acrefore/9780190277734.013.1028 "RENAMO and Mozambique") Contribution to edited volume, Thomas Spear (ed.), _[Oxford Research Encyclopedia of African History.](https://oxfordre.com/africanhistory "Oxford Research Encyclopedia of African History")_. Oxford: Oxford University Press.        
 
 2018. [“Intervention, Autonomy and Power in Polarised Societies.”](https://openaccess.leidenuniv.nl/bitstream/handle/1887/71200/Jentzsch_2018_Intervention_autonomy_and_power_in_polarised_societies_T.pdf?sequence=1 "Intervention, Autonomy and Power") Contribution to edited volume, Brendan Browne and Althea Rivas (eds.), _[Experiences in Researching Conflict & Violence: Fieldwork Interrupted](https://policypress.co.uk/experiences-in-researching-conflict-and-violence)_. Bristol: Policy Press.
 
