@@ -1,11 +1,14 @@
+---
+published: false
+---
 #### Contact
 
 Corinna Jentzsch  
 Institute of Political Science   
-Pieter de la Court Gebouw    
+Wijnhaven    
 Leiden University    
-Wassenaarseweg 52     
-2333 AK Leiden    
+Turfmarkt 99     
+2511 DP The Hague    
 The Netherlands     
 
 email <c.jentzsch@fsw.leidenuniv.nl>  
@@ -16,8 +19,6 @@ twitter [@coboje](https://twitter.com/coboje)
 
 * [Leiden University Profile Page](http://socialsciences.leiden.edu/politicalscience/organisation/faculty/jentzsch.html "Corinna Jentzsch")
 * [Institute of Political Science at Leiden University](http://www.socialsciences.leiden.edu/politicalscience/ "Institute of Political Science at Leiden University")
-* [Department of Political Science at Yale University](http://politicalscience.yale.edu/ "Department of Political Science at Yale University")
-* [Program on Order, Conflict, and Violence at Yale University](http://www.yale.edu/macmillan/ocvprogram/ "OCV")
+* [Leiden Center for International Relations (LUCIR)](https://www.universiteitleiden.nl/en/lucir "LUCIR")
 * [Africa is a Country](http://africasacountry.com/ "AIAC")
 * [#WomenAlsoKnowStuff](http://womenalsoknowstuff.com/ "Women")
-* [Plural Security Insights](http://pluralsecurityinsights.org/)
