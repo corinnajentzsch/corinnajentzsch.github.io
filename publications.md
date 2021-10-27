@@ -8,7 +8,7 @@ title: Publications
 
 ## Publications
 
-_Book_
+_Book_          
 2022\. _[Violent Resistance: Militia Formation and Civil War in Mozambique](https://www.cambridge.org/core/books/violent-resistance/9F6785EA6663B77BAA90E8A5FDAC5323 "Violent Resistance")_. Cambridge Studies in Contentious Politics, New York: Cambridge University Press.
 
 _Peer-reviewed_   
