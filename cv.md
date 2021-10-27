@@ -2,7 +2,7 @@
 layout: default
 title: Curriculum Vitae
 published: true
-banner: "![Lugela, Zambezia](/assets/media/lugela-btr.jpg)"
+banner: '![Lugela, Zambezia](/assets/media/lugela-btr.jpg)'
 ---
 
 
@@ -11,4 +11,4 @@ banner: "![Lugela, Zambezia](/assets/media/lugela-btr.jpg)"
 
 ## CV 
 
-You can download a short version of my CV [here](https://dl.dropboxusercontent.com/u/8807102/Jentzsch_CV.pdf "Jentzsch CV").
+You can download a short version of my CV [here](https://www.dropbox.com/s/lgmjmp7nxi0zrqo/Jentzsch_CV_short.pdf?dl=0 "Jentzsch CV").
