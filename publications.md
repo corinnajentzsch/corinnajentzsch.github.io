@@ -27,6 +27,8 @@ _Peer-reviewed_
 2014\. ["The Financing of International Peace Operations in Africa: A Review of Recent Research and Analyses."](webarchive.ssrc.org/working-papers/APN_WorkingPapers01_Jentzsch.pdf "APN WorkingPapers 01 Jentzsch") _APN Working Papers No. 1_, SSRC African Peacebuilding Network.   
 
 _Other (selection)_    
+2021\. ["Ignorance, denial and insurgency in Mozambique."](https://africasacountry.com/2021/12/ignorance-denial-and-insurgency-in-mozambique) _Africa is a Country_, 17 December.      
+
 2020\. ["Review of Insurgent Fragmentation in the Horn of Africa: Rebellion and its Discontents, by Michael Woldemariam."](https://www.muse.jhu.edu/article/751853) _Africa: The Journal of the International African Institute_ 90(2): 421-422.       
 
 2019\. [“Peace is a Losing Strategy in Mozambique. Why Elections Could Cause Another Civil War.”](https://www.foreignaffairs.com/articles/mozambique/2019-09-27/peace-losing-strategy-mozambique "Peace is a Losing Strategy in Mozambique") _Foreign Affairs_, 27 September.
