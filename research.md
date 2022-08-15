@@ -18,6 +18,8 @@ Book published in Janaury 2022 with Cambridge University Press
 
 Why do communities form militias to defend themselves against violence during civil war? Using original interviews with former combatants and civilians and archival material from extensive fieldwork in Mozambique, Corinna Jentzsch’s Violent Resistance explains the timing, location and process through which communities form militias. Jentzsch shows that local military stalemates characterized by ongoing violence allow civilians to form militias that fight alongside the government against rebels. Militias spread only to communities in which elites are relatively unified, preventing elites from coopting militias for private gains. Crucially, militias that build on preexisting social conventions are able to resonate with the people and empower them to regain agency over their lives. Jentzsch’s innovative study brings conceptual clarity to the militia phenomenon and helps us understand how wartime civilian agency, violent resistance, and the rise of third actors beyond governments and rebels affect the dynamics of civil war, on the African continent and beyond.
 
+_Reviewed by Alex Vines for the ["Journal of Southern African Studies."](https://www.tandfonline.com/doi/full/10.1080/03057070.2022.2083859)_        
+
 #### State-Militia Collaboration and Political Order in Civil War
 
 NWO Veni Project funded by the [The Netherlands Organisation for Scientific Research](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme/awards/veni+awards/veni+awards+2016 "NWO") 
