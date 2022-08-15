@@ -27,7 +27,9 @@ _Peer-reviewed_
 2014\. ["The Financing of International Peace Operations in Africa: A Review of Recent Research and Analyses."](webarchive.ssrc.org/working-papers/APN_WorkingPapers01_Jentzsch.pdf "APN WorkingPapers 01 Jentzsch") _APN Working Papers No. 1_, SSRC African Peacebuilding Network.   
 
 _Other (selection)_    
-2021\. ["Ignorance, denial and insurgency in Mozambique."](https://africasacountry.com/2021/12/ignorance-denial-and-insurgency-in-mozambique) _Africa is a Country_, 17 December.      
+2022\. ["Origins and consequences of the local forces in Cabo Delgado."](https://www.caboligado.com/monthly-reports/cabo-ligado-monthly-may-2022) _Cabo Ligado Monthly_, 16 June.    
+
+2021\. ["Ignorance, denial and insurgency in Mozambique."](https://africasacountry.com/2021/12/ignorance-denial-and-insurgency-in-mozambique) _Africa is a Country_, 17 December. Extended, translated and published as ["Au Mozambique, ignorance et déni face à l’insurrection djihadiste."]( https://afriquexxi.info/article4902.html) _AfriqueXXI_, 2 February 2022; and ["Ignoranz, Leugnung und Rebellion."](https://www.afrika-sued.org/ausgaben/heft-2-2022/ignoranz-leugnung-und-rebellion/) _Afrika Süd_, 2/2022: 8-11.       
 
 2020\. ["Review of Insurgent Fragmentation in the Horn of Africa: Rebellion and its Discontents, by Michael Woldemariam."](https://www.muse.jhu.edu/article/751853) _Africa: The Journal of the International African Institute_ 90(2): 421-422.       
 
