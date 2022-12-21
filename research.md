@@ -42,13 +42,13 @@ Michel Cahen - CNRS Emeritus Researcher at Sciences Po Bordeaux, and author of N
 
 Alex Vines - [Journal of Southern African Studies.](https://www.tandfonline.com/doi/full/10.1080/03057070.2022.2083859)           
 
-#### State-Militia Collaboration and Political Order in Civil War (2017-2021)
+#### State-Militia Collaboration and Political Order in Civil War (2017-2021)     
 
 NWO Veni Project funded by the [The Netherlands Organisation for Scientific Research](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme/awards/veni+awards/veni+awards+2016 "NWO") 
 
 Governments in Syria, Iraq, Afghanistan and Sudan have mobilized militias to defend the state and the local population against armed rebellion. The empowerment of such progovernment armed groups has varying consequences for security and political order in conflict-ridden states. Recent headlines like “Afghan Militia Leaders, Empowered by U.S. to Fight Taliban, Inspire Fear in Villages” (Goldstein 2015), “Power Failure in Iraq as Militias Outgun State” (Parker 2015), and “Chaos Grows in Darfur Conflict as Militias Turn on Government” (Lacey 2005) support the notion that empowering militias leads to disastrous outcomes. But contrary to what such war reports suggest, the disruption of political order and security by militias is not inevitable. In civil wars in Mozambique, Peru and even Afghanistan, many militias neither mounted a serious challenge to state power, nor threatened the population. Instead, they allowed the state to restore order and security. Under what conditions does state-militia collaboration sustain or disrupt political order? More specifically, under what conditions do militias target state institutions and the local population or refrain from doing so? This project develops a new theory of the impact of state–militia collaboration on political order—the extent to which militias exercise state functions and perpetrate violence against the local population. It analyzes subnational variation of state–militia collaboration during the Mozambican civil war for the purpose of theory development and tests implications for the macro-level in a cross-national analysis of state–militia collaboration in recent African civil wars. By elucidating the ambivalent effects of state–militia collaboration in civil war, the research seeks to critically interrogate the assumptions informing current policy in contexts such as Iraq and Afghanistan. The findings will provide insights into how militias can be made more accountable to the state and the local population and less susceptible to co-optation by violent entrepreneurs.
 
-#### [The Evolution of Violence During Mozambique's Civil War (1976-1992)](http://iprafoundation.org/corinna-jentzsch/ "The Evolution of Violence") (2016-2017)
+#### [The Evolution of Violence During Mozambique's Civil War (1976-1992)](http://iprafoundation.org/corinna-jentzsch/ "The Evolution of Violence") (2016-2017)     
 
 Funded by the [International Peace Research Association Foundation](http://iprafoundation.org/ "IPRAF")
 
