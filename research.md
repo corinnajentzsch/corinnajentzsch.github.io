@@ -14,7 +14,7 @@ I study civil wars, in particular how different forms of civilian collective act
 
 #### [Violent Resistance: Militia Formation and Civil War in Mozambique](https://www.cambridge.org/core/books/violent-resistance/9F6785EA6663B77BAA90E8A5FDAC5323 "Violent Resistance")
 
-Book published in Janaury 2022 with Cambridge University Press
+Book published in January 2022 with Cambridge University Press
 
 ![Book Cover VR](https://user-images.githubusercontent.com/93205767/139036821-372fc13e-d151-4ebd-848e-ad033a3e5c15.jpg)  
 
