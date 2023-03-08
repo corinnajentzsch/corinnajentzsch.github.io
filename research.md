@@ -36,6 +36,9 @@ _Reviews_
 'What a beautiful political anthropology of the Mozambican civil war! Corinna Jentzsch has conducted a ‘subalternist study’: she 'dives' into the original social relations within the peasantry. Even if the magical aspect of the militia war may be surprising, it is directly the result of the social and cultural reaction of communities to protect themselves in a situation of stalemate between the two main sides of the civil war. In this sense, Corinna Jentzsch's fieldwork has produced a fundamental work of generalist scope about the reaction of subalterns to their marginalization.'     
 > Michel Cahen - CNRS Emeritus Researcher at Sciences Po Bordeaux, and author of Não somos bandidos. A vida diária de uma guerrilha de direita: a Renamo na época do Acordo de Nkomati (1983–1985), 2019    
 
+'A beautiful book of contemporary social history.'
+> Michel Cahen - [Revue d’Histoire Contemporaine de l’Afrique.](https://oap.unige.ch/journals/rhca/article/view/crcahen)
+
 'This book contributes (...) to deepening our understanding of how civilians during the civil war sought ‘third-way’ strategies, not fully endorsing either of the two key belligerents, Frelimo and Renamo.'    
 > Alex Vines - [Journal of Southern African Studies.](https://www.tandfonline.com/doi/full/10.1080/03057070.2022.2083859)             
 
