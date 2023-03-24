@@ -40,7 +40,10 @@ _Reviews_
 > Michel Cahen - [Revue d’Histoire Contemporaine de l’Afrique.](https://oap.unige.ch/journals/rhca/article/view/crcahen)        
 
 'This book contributes (...) to deepening our understanding of how civilians during the civil war sought ‘third-way’ strategies, not fully endorsing either of the two key belligerents, Frelimo and Renamo.'    
-> Alex Vines - [Journal of Southern African Studies.](https://www.tandfonline.com/doi/full/10.1080/03057070.2022.2083859)             
+> Alex Vines - [Journal of Southern African Studies.](https://www.tandfonline.com/doi/full/10.1080/03057070.2022.2083859)    
+
+'The book outlines a new research program, offering concepts, puzzles, and explanatory factors that are sure to lay the foundation for numerous studies to follow. And it does so with immersive interviewing, gripping prose, and thoughtful reflection that sets the bar for the qualitative study of civil conflict.'
+> Ches Thurber - [Perspectives on Politics.](https://doi.org/10.1017/S1537592722003693)       
 
 #### State-Militia Collaboration and Political Order in Civil War (2017-2021)     
 
