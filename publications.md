@@ -28,7 +28,9 @@ _Peer-reviewed_
 
 2014\. ["The Financing of International Peace Operations in Africa: A Review of Recent Research and Analyses."](webarchive.ssrc.org/working-papers/APN_WorkingPapers01_Jentzsch.pdf "APN WorkingPapers 01 Jentzsch") _APN Working Papers No. 1_, SSRC African Peacebuilding Network.   
 
-_Other (selection)_    
+_Other (selection)_      
+2023\. ["Conclusion - The Study of Militias and Violence: Where to Go from Here?"](https://www.routledge.com/Militias-States-and-Violence-against-Civilians-Civic-Vice-Civic-Virtue/Johnson-Wittels/p/book/9781032122816) Contribution to edited volume, Paul Lorenzo Johnson and William Wittels (eds.), [_Militias, States and Violence against Civilians: Civic Vice, Civic Virtue_](https://www.routledge.com/Militias-States-and-Violence-against-Civilians-Civic-Vice-Civic-Virtue/Johnson-Wittels/p/book/9781032122816). Abingdon: Routledge.       
+
 2023\. ["Critical Dialogue - Review of Between Mao and Gandhi: The Social Roots of Civil Resistance. By Ches Thurber. New York: Cambridge University Press, 2021. 260p. $99.99 cloth."](https://doi.org/10.1017/S1537592722003942) _Perspectives on Politics_, 21(1): 346-348.     
 
 2023\. ["Critical Dialogue - Response to Ches Thurber’s Review of _Violent Resistance: Militia Formation and Civil War in Mozambique."_](https://doi.org/10.1017/S153759272200370X) _Perspectives on Politics_, 21(1): 346.          
