@@ -1,5 +1,5 @@
 ---
-banner: '![Nampula City](/assets/media/nampula-square.jpg)'
+banner: '![Violent Resistance](/assets/media/book-cover.jpg)'
 published: true
 title: Book
 layout: default
