@@ -2,7 +2,7 @@
 layout: default
 title: Research
 published: true
-banner: '![Nampula City](/assets/media/nampula-square.jpg)'
+banner: '![Gurué, Zambézia](/assets/media/gurue-street.jpg)'
 ---
 
 
