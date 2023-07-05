@@ -1,3 +1,8 @@
+---
+title: ''
+banner: '![Alt Text](/assets/media/image-name.jpg)'
+published: false
+---
 safe: true
 permalink: pretty
 #baseurl: /
@@ -21,6 +26,8 @@ keywords:
   - "contemporary political theory"
 
 navigation:
+- text: Book
+  url: /violent-resistance/
 - text: Research
   url: /research/
 - text: Publications
