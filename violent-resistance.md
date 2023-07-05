@@ -1,6 +1,6 @@
 ---
 banner: '![Nampula City](/assets/media/nampula-square.jpg)'
-published: false
+published: true
 title: Book
 layout: default
 ---
