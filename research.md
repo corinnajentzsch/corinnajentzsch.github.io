@@ -10,7 +10,7 @@ banner: '![Nampula City](/assets/media/nampula-square.jpg)'
 
 I study civil wars, in particular how different forms of civilian collective action emerge and change the dynamics of war, and how (armed) conflicts evolve, escalate, and transform. This research lies at the intersection of international relations, comparative politics, and political sociology. I strive for an interdisciplinary approach and combine theoretical perspectives and methodological approaches from political science, sociology, history, and anthropology. I put particular emphasis on in-depth fieldwork and combine qualitative with quantitative research methods.
 
-### Projects    
+### Book          
 
 #### [Violent Resistance: Militia Formation and Civil War in Mozambique](https://www.cambridge.org/core/books/violent-resistance/9F6785EA6663B77BAA90E8A5FDAC5323 "Violent Resistance")
 
@@ -44,6 +44,8 @@ _Reviews_
 
 'The book outlines a new research program, offering concepts, puzzles, and explanatory factors that are sure to lay the foundation for numerous studies to follow. And it does so with immersive interviewing, gripping prose, and thoughtful reflection that sets the bar for the qualitative study of civil conflict.'
 > Ches Thurber - [Perspectives on Politics.](https://doi.org/10.1017/S1537592722003693)       
+
+### Projects    
 
 #### State-Militia Collaboration and Political Order in Civil War (2017-2021)     
 
