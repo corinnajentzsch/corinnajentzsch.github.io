@@ -1,3 +1,6 @@
+---
+published: false
+---
 #### Contact
 
 Corinna Jentzsch  
@@ -10,7 +13,7 @@ The Netherlands
 
 email <c.jentzsch@fsw.leidenuniv.nl>  
 web www.corinnajentzsch.com  
-twitter [@coboje](https://twitter.com/coboje)  
+mastodon [@coboje@h-net.social](https://h-net.social/@coboje)  
 
 #### Links
 
