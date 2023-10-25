@@ -48,7 +48,7 @@ _Other (selection)_
 
 2019\. [“Peace is a Losing Strategy in Mozambique. Why Elections Could Cause Another Civil War.”](https://www.foreignaffairs.com/articles/mozambique/2019-09-27/peace-losing-strategy-mozambique "Peace is a Losing Strategy in Mozambique") _Foreign Affairs_, 27 September.
 
-2018\. [“Spiritual Power and the Dynamics of War in the Provinces of Nampula and Zambézia.”](https://openaccess.leidenuniv.nl/bitstream/handle/1887/71201/Jentzsch_2018_T.pdf?sequence=1 "Leiden University Repository Jentzsch 2018 Spiritual Power"), In _[The War Within: New Perspectives on the Civil War in Mozambique, 1976-1992](https://boydellandbrewer.com/the-war-within-hb.html)_, edited by Cahen, Michel, Eric Morier-Genoud, and Domingos do Rosário. Suffolk: James Currey.
+2018\. [“Spiritual Power and the Dynamics of War in the Provinces of Nampula and Zambézia.”](https://openaccess.leidenuniv.nl/bitstream/handle/1887/71201/Jentzsch_2018_T.pdf?sequence=1 "Leiden University Repository Jentzsch 2018 Spiritual Power"), In Michel Cahen, Eric Morier-Genoud, and Domingos do Rosário (eds.), _[The War Within: New Perspectives on the Civil War in Mozambique, 1976-1992](https://boydellandbrewer.com/the-war-within-hb.html)_. Suffolk: James Currey.
 
 2017\. [“Is environmental philanthropy still a white man’s game?.”](http://africasacountry.com/2017/09/is-environmental-philanthropy-still-a-white-mans-game/) _Africa Is A Country_, September 25.
 
