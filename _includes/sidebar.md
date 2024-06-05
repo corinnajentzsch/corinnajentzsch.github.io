@@ -14,6 +14,7 @@ The Netherlands
 email <c.jentzsch@fsw.leidenuniv.nl>  
 web www.corinnajentzsch.com  
 mastodon [@coboje@h-net.social](https://h-net.social/@coboje)  
+bluesky [@corinnajentzsch.com](https://bsky.app/profile/corinnajentzsch.com)       
 
 #### Links
 
