@@ -36,3 +36,6 @@ _Reviews_
 
 'The book outlines a new research program, offering concepts, puzzles, and explanatory factors that are sure to lay the foundation for numerous studies to follow. And it does so with immersive interviewing, gripping prose, and thoughtful reflection that sets the bar for the qualitative study of civil conflict.'
 > Ches Thurber - [Perspectives on Politics.](https://doi.org/10.1017/S1537592722003693)
+
+'Rather than seeing community-based actors as folkloric accessories of armed conflicts, _Violent Resistance_ conceives of militias as an ‘expression of civilian agency’. In so doing, the book bridges a persisting gap between anthropologies of conflict and more dominant takes in quantitative social sciences, and reopens the debate about definitions: what is a militia anyway?'
+> Christoph N. Vogel - [African Affairs.](https://doi.org/10.1093/afraf/adae008)       
