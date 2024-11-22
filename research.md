@@ -12,6 +12,17 @@ I study civil wars, in particular how different forms of civilian collective act
 
 ### Projects   
 
+#### Countering Jihadi Insurgencies in Africa: Repress, Resist & Reorder (COUNTERRR) (2025-2030)
+
+ERC Starting Grant funded by the [European Research Council](https://erc.europa.eu/news-events/news/erc-2024-starting-grants-results "ERC")
+
+Many African countries, including Libya, Nigeria, Mali, DR Congo, Somalia, and Mozambique, have been affected by violence of jihadist armed groups. These groups pose a distinct threat to social, political, and economic orders across Africa as they violently reject the nation-state and can rely on support from the transnational violent networks of the Islamic State and al-Qaeda.    
+
+Research has primarily focused on international responses to “violent extremism” in Africa, but international actors do not operate in a vacuum and interact with responses on the ground. If we want to understand and effectively tackle this violent threat, we need to know more about how domestic actors—governments, security forces, and affected communities—counter jihadist armed groups in Africa. Why do some governments repress these groups through domestic security operations, while others invite foreign countries to militarily intervene? Why do some governments respond immediately, while others delay a response to a new jihadist threat? Why do some communities decide to cooperate with jihadist groups, while others opt to resist them? Why do some communities attempt to resist these groups non-violently, while others form self-defence militias to protect themselves? And finally, how do domestic responses to jihadist armed groups reorder
+security in the region and shape conflict stabilization or escalation?      
+
+COUNTERRR will deliver crucial analyses of when, how, and why domestic actors repress and resist jihadist armed groups and reorder security. It will adopt an innovative multi-level and multi-method comparative approach focused on variation within and across three countries (Mali, Nigeria, and Mozambique). Understanding how African countries and affected communities respond to jihadist insurgencies will help international actors to coordinate and adjust their responses to benefit from local knowledge and prevent further escalation of conflict.
+
 #### [Violent Resistance: Militia Formation and Civil War in Mozambique](https://www.cambridge.org/core/books/violent-resistance/9F6785EA6663B77BAA90E8A5FDAC5323 "Violent Resistance")
 
 Book published in January 2022 with Cambridge University Press 
@@ -20,7 +31,7 @@ Why do communities form militias to defend themselves against violence during ci
 
 #### State-Militia Collaboration and Political Order in Civil War (2017-2021)     
 
-NWO Veni Project funded by the [The Netherlands Organisation for Scientific Research](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme/awards/veni+awards/veni+awards+2016 "NWO") 
+NWO Veni Project funded by the [The Netherlands Organisation for Scientific Research](http://www.nwo.nl/en/ "NWO") 
 
 Governments in Syria, Iraq, Afghanistan and Sudan have mobilized militias to defend the state and the local population against armed rebellion. The empowerment of such progovernment armed groups has varying consequences for security and political order in conflict-ridden states. Recent headlines like “Afghan Militia Leaders, Empowered by U.S. to Fight Taliban, Inspire Fear in Villages” (Goldstein 2015), “Power Failure in Iraq as Militias Outgun State” (Parker 2015), and “Chaos Grows in Darfur Conflict as Militias Turn on Government” (Lacey 2005) support the notion that empowering militias leads to disastrous outcomes. But contrary to what such war reports suggest, the disruption of political order and security by militias is not inevitable. In civil wars in Mozambique, Peru and even Afghanistan, many militias neither mounted a serious challenge to state power, nor threatened the population. Instead, they allowed the state to restore order and security. Under what conditions does state-militia collaboration sustain or disrupt political order? More specifically, under what conditions do militias target state institutions and the local population or refrain from doing so? This project develops a new theory of the impact of state–militia collaboration on political order—the extent to which militias exercise state functions and perpetrate violence against the local population. It analyzes subnational variation of state–militia collaboration during the Mozambican civil war for the purpose of theory development and tests implications for the macro-level in a cross-national analysis of state–militia collaboration in recent African civil wars. By elucidating the ambivalent effects of state–militia collaboration in civil war, the research seeks to critically interrogate the assumptions informing current policy in contexts such as Iraq and Afghanistan. The findings will provide insights into how militias can be made more accountable to the state and the local population and less susceptible to co-optation by violent entrepreneurs.
 
