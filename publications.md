@@ -34,6 +34,8 @@ _Peer-reviewed_
 
 _Other (selection)_      
 
+2025\. ["Political assassinations, police violence and lack of press freedom: 3 barriers to peace in Mozambique"](https://theconversation.com/political-assassinations-police-violence-and-lack-of-press-freedom-3-barriers-to-peace-in-mozambique-248153) _The Conversation_, 24 January.        
+
 2023\. ["Civilian Violent Mobilization and the Intensity of Civil War in Mozambique"](https://books.google.nl/books/about/Civilian_Protective_Agency_in_Violent_Se.html?id=vTHaEAAAQBAJ&redir_esc=y). In Jana Krause, Juan Masullo, Emily Rhoads, and Jennifer Welsh (eds.), _Civilian Protective Agency in Violent Settings: A Comparative Perspective_, 135–51. Oxford: Oxford University Press.
 
 2023\. ["Conclusion - The Study of Militias and Violence: Where to Go from Here?"](https://www.routledge.com/Militias-States-and-Violence-against-Civilians-Civic-Vice-Civic-Virtue/Johnson-Wittels/p/book/9781032122816). In Paul Lorenzo Johnson and William Wittels (eds.), [_Militias, States and Violence against Civilians: Civic Vice, Civic Virtue_](https://www.routledge.com/Militias-States-and-Violence-against-Civilians-Civic-Vice-Civic-Virtue/Johnson-Wittels/p/book/9781032122816). Abingdon: Routledge.       
@@ -43,7 +45,6 @@ _Other (selection)_
 2023\. ["Critical Dialogue - Response to Ches Thurber’s Review of _Violent Resistance: Militia Formation and Civil War in Mozambique."_](https://doi.org/10.1017/S153759272200370X) _Perspectives on Politics_, 21(1): 346.          
 
 2022\. ["Origins and consequences of the local forces in Cabo Delgado."](https://www.caboligado.com/monthly-reports/cabo-ligado-monthly-may-2022) _Cabo Ligado Monthly_, 16 June.    
-
 2021\. ["Ignorance, denial and insurgency in Mozambique."](https://africasacountry.com/2021/12/ignorance-denial-and-insurgency-in-mozambique) _Africa is a Country_, 17 December. Extended, translated and published as ["Au Mozambique, ignorance et déni face à l’insurrection djihadiste."]( https://afriquexxi.info/article4902.html) _AfriqueXXI_, 2 February 2022; and ["Ignoranz, Leugnung und Rebellion."](https://www.afrika-sued.org/ausgaben/heft-2-2022/ignoranz-leugnung-und-rebellion/) _Afrika Süd_, 2/2022: 8-11.       
 
 2020\. ["Review of Insurgent Fragmentation in the Horn of Africa: Rebellion and its Discontents, by Michael Woldemariam."](https://www.muse.jhu.edu/article/751853) _Africa: The Journal of the International African Institute_ 90(2): 421-422.       
