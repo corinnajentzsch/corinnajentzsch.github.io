@@ -12,7 +12,7 @@ I study civil wars, in particular how different forms of civilian collective act
 
 ### Projects   
 
-#### Countering Jihadi Insurgencies in Africa: Repress, Resist & Reorder (COUNTERRR) (2025-2030)
+#### [Countering Jihadi Insurgencies in Africa: Repress, Resist & Reorder (COUNTERRR) (2025-2030)](https://www.universiteitleiden.nl/en/research/research-projects/social-and-behavioural-sciences/political-science/countering-jihadi-insurgencies-in-africa "COUNTERRR")
 
 ERC Starting Grant funded by the [European Research Council](https://erc.europa.eu/news-events/news/erc-2024-starting-grants-results "ERC")
 
