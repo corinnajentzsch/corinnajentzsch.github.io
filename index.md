@@ -7,7 +7,7 @@ banner: '![Namarroi, Zambezia](/assets/media/namarroi-lake.jpg)'
 
 ## Welcome!
 
-I'm an Assistant Professor (with tenure) of International Relations at the Institute of Political Science at Leiden University. My research focuses on civilian collective action during civil war and conflict transformation and escalation. I'm also broadly interested in social movements, political violence, peacekeeping, African politics, and fieldwork methods and ethics. I've conducted extensive fieldwork in southern Africa, including Mozambique, Zambia, and Malawi. 
+I'm an Associate Professor of International Relations at the Institute of Political Science at Leiden University. My research focuses on civilian collective action during civil war and conflict transformation and escalation. I'm also broadly interested in social movements, political violence, peacekeeping, African politics, and fieldwork methods and ethics. I've conducted extensive fieldwork in southern Africa, including Mozambique, Zambia, and Malawi. 
 
 ![Book Cover VR](https://user-images.githubusercontent.com/93205767/139036821-372fc13e-d151-4ebd-848e-ad033a3e5c15.jpg)     
 
