@@ -14,6 +14,9 @@ _Book_
 
 _Peer-reviewed_   
 
+2025\. [“‘The War Broke Out and I Broke Down’: Expectations and Aspirations in Forging Solidarity between Dutch Activists and Southern African Liberation Leaders.”](https://www.tandfonline.com/doi/full/10.1080/02582473.2025.2581038) _South African Historical Journal_, December: 1–18.
+
+
 2023\. [“Social Control and Civil Wars.”](https://www.tandfonline.com/doi/full/10.1080/13698249.2023.2250699) _Civil Wars_ 25(2-3): 452-471 (together with Abbey Steele).
 
 2022\. ["Violent or non-violent action? Wartime civilian resistance in Colombia and Mozambique."](https://doi.org/10.1016/j.polgeo.2022.102761 "Violent or non-violent action?") _Political Geography_ 99 (together with Juan Masullo).         
