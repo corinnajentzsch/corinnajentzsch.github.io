@@ -14,8 +14,11 @@ _Book_
 
 _Peer-reviewed_   
 
-2025\. [“‘The War Broke Out and I Broke Down’: Expectations and Aspirations in Forging Solidarity between Dutch Activists and Southern African Liberation Leaders.”](https://www.tandfonline.com/doi/full/10.1080/02582473.2025.2581038) _South African Historical Journal_, December: 1–18.
+2025\. [Continuity and Change of Community-Initiated Militias in Mozambique](https://doi.org/10.3167/arcs.2025.110107) _Conflict and Society_ 11: 97-113.         
 
+2025\. [Conflict continuities: Africa in focus](https://doi.org/10.3167/arcs.2025.110105)_Conflict and Society_ 11: 63-74 (together with Lidewyde Berckmoes and Mirjam de Bruijn).      
+
+2025\. [“‘The War Broke Out and I Broke Down’: Expectations and Aspirations in Forging Solidarity between Dutch Activists and Southern African Liberation Leaders.”](https://www.tandfonline.com/doi/full/10.1080/02582473.2025.2581038) _South African Historical Journal_, December: 1–18.   
 
 2023\. [“Social Control and Civil Wars.”](https://www.tandfonline.com/doi/full/10.1080/13698249.2023.2250699) _Civil Wars_ 25(2-3): 452-471 (together with Abbey Steele).
 
