@@ -4,11 +4,11 @@ published: false
 #### Contact
 
 Corinna Jentzsch  
-Institute of Political Science   
-Wijnhaven    
+Institute of Political Science    
 Leiden University    
-Turfmarkt 99     
-2511 DP The Hague    
+Campus The Hague
+Spui 5     
+2511 BL The Hague    
 The Netherlands     
 
 email <c.jentzsch@fsw.leidenuniv.nl>  
@@ -24,4 +24,4 @@ bluesky [@corinnajentzsch.com](https://bsky.app/profile/corinnajentzsch.com)
 * [Africa is a Country](http://africasacountry.com/ "AIAC")
 * [#WomenAlsoKnowStuff](http://womenalsoknowstuff.com/ "Women")
 * [COUNTERRR](https://www.universiteitleiden.nl/en/counterrr "COUNTERRR")      
-* [GOV-JIHAD](https://www.bicc.de/Governing_Jihad_in_Africa "GOVJIHAD")     
+* [GOV-JIHAD](https://www.bicc.de/Governing_Jihad_in_Africa "GOVJIHAD")
