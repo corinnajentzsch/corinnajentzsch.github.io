@@ -1,1 +1,1 @@
-&copy; 2013-2023 Corinna Jentzsch.
+&copy; 2013-2026 Corinna Jentzsch.
