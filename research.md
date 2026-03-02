@@ -18,7 +18,7 @@ ERC Starting Grant funded by the [European Research Council](https://erc.europa.
 
 COUNTERRR examines domestic responses to jihadist armed groups in Africa, analyzing variation in state repression, community resistance, and the evolution of security across Mali, Nigeria, and Mozambique. Violence by jihadist armed groups poses a distinct threat to social, political, and economic orders across Africa. This project focuses on how domestic actors—governments and affected communities—counter jihadist armed groups operating in three countries. The project explores why these domestic actors choose varied strategies—such as state repression, foreign intervention, nonviolent or violent community resistance—when countering jihadist threats and examines the effects of these strategies on conflict stabilization or escalation. The research methods will combine qualitative cross-country and subnational comparisons with extensive fieldwork in the project countries. Understanding how African countries and affected communities respond to jihadist insurgencies will help international actors to coordinate and adjust their responses to benefit from local knowledge and prevent further escalation of conflict.      
 
-#### GOV-JIHAD: Governing Jihad in Africa: Ideology, Political Economy, and Violence (2025-2028)
+#### [GOV-JIHAD: Governing Jihad in Africa: Ideology, Political Economy, and Violence (2025-2028)](https://www.bicc.de/Governing_Jihad_in_Africa "GovJihad")       
 
 ORA8 Grant funded by UKRI, ANR, and DFG, together with Vincent Foucher, Eric Morier-Genoud, and Yvan Guichaoua 
 
